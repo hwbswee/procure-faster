@@ -7,6 +7,7 @@ interface CartItem {
   uom: string
   category: string
   qty: number
+  note?: string
   suppliers: Record<string, { price: number; halal?: boolean }>
 }
 
@@ -14,10 +15,11 @@ interface ProcurementListProps {
   items: CartItem[]
   onQtyChange?: (id: string, qty: number) => void
   onRemove?: (id: string) => void
+  onNoteChange?: (id: string, note: string) => void
   showBestPrice?: boolean
 }
 
-export function ProcurementList({ items, onQtyChange, onRemove }: ProcurementListProps) {
+export function ProcurementList({ items, onQtyChange, onRemove, onNoteChange }: ProcurementListProps) {
   if (items.length === 0) {
     return (
       <div className="text-center py-12 text-slate-500">
@@ -87,6 +89,19 @@ export function ProcurementList({ items, onQtyChange, onRemove }: ProcurementLis
               >
                 ✕
               </button>
+            </div>
+
+            <div className="mt-2">
+              <label className="block text-[11px] uppercase tracking-[0.08em] text-slate-500 mb-1">
+                Notes / Flavor
+              </label>
+              <input
+                type="text"
+                value={item.note || ''}
+                onChange={(e) => onNoteChange?.(item.id, e.target.value)}
+                placeholder="e.g. vanilla, less sweet, no garlic"
+                className="w-full px-2.5 py-1.5 border border-slate-300 rounded-md text-xs text-slate-700 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-slate-200"
+              />
             </div>
           </div>
         ))}

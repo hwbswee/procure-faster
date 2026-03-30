@@ -4,6 +4,7 @@ interface CartItem {
   uom: string
   category: string
   qty: number
+  note?: string
   suppliers: Record<string, { price: number }>
 }
 
@@ -20,7 +21,7 @@ function getBestSupplier(suppliers: Record<string, { price: number }>): { suppli
 }
 
 export function generateCSV(items: CartItem[]): string {
-  const headers = ['Item Name', 'Category', 'Qty', 'Unit', 'Best Supplier', 'Unit Price', 'Total']
+  const headers = ['Item Name', 'Notes', 'Category', 'Qty', 'Unit', 'Best Supplier', 'Unit Price', 'Total']
 
   const rows: string[][] = [headers]
 
@@ -33,6 +34,7 @@ export function generateCSV(items: CartItem[]): string {
 
     const row: string[] = [
       `"${item.itemName.replace(/"/g, '""')}"`,
+      `"${(item.note || '').replace(/"/g, '""')}"`,
       item.category,
       String(item.qty),
       item.uom,
@@ -45,7 +47,7 @@ export function generateCSV(items: CartItem[]): string {
   })
 
   // Add total row
-  const totalRow = ['TOTAL', '', '', '', '', '', String(grandTotal.toFixed(2))]
+  const totalRow = ['TOTAL', '', '', '', '', '', '', String(grandTotal.toFixed(2))]
   rows.push(totalRow)
 
   return rows.map(row => row.join(',')).join('\n')
@@ -61,6 +63,7 @@ export function generateJSON(items: CartItem[]): string {
 
     return {
       name: item.itemName,
+      note: item.note || '',
       qty: item.qty,
       uom: item.uom,
       category: item.category,

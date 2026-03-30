@@ -12,6 +12,7 @@ interface CartItem {
   uom: string
   category: string
   qty: number
+  note?: string
   suppliers: Record<string, { price: number; halal?: boolean }>
 }
 
@@ -70,8 +71,13 @@ export default function Home() {
     const target = templates.find((template) => template.id === templateId)
     if (!target) return
 
-    setCart(target.items)
-    const categories = Array.from(new Set(target.items.map((item) => item.category)))
+    const normalizedItems = target.items.map((item) => ({
+      ...item,
+      note: item.note || '',
+    }))
+
+    setCart(normalizedItems)
+    const categories = Array.from(new Set(normalizedItems.map((item) => item.category)))
     setSelectedCategories(categories)
   }
 
@@ -88,14 +94,14 @@ export default function Home() {
     )
   }
 
-  const handleAddItem = (item: Omit<CartItem, 'qty'>) => {
+  const handleAddItem = (item: Omit<CartItem, 'qty' | 'note'>) => {
     const existing = cart.find(c => c.id === item.id)
     if (existing) {
       setCart(cart.map(c =>
         c.id === item.id ? { ...c, qty: c.qty + 1 } : c
       ))
     } else {
-      setCart([...cart, { ...item, qty: 1 }])
+      setCart([...cart, { ...item, qty: 1, note: '' }])
     }
   }
 
@@ -106,6 +112,10 @@ export default function Home() {
 
   const handleRemove = (id: string) => {
     setCart(cart.filter(c => c.id !== id))
+  }
+
+  const handleNoteChange = (id: string, note: string) => {
+    setCart(cart.map(c => c.id === id ? { ...c, note } : c))
   }
 
   // Calculate best price per item and total
@@ -278,6 +288,7 @@ export default function Home() {
               items={cart}
               onQtyChange={handleQtyChange}
               onRemove={handleRemove}
+              onNoteChange={handleNoteChange}
               showBestPrice={true}
             />
           </div>

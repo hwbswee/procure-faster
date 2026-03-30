@@ -35,16 +35,34 @@ export async function GET(request: NextRequest) {
     const fuse = new Fuse(results, {
       keys: [
         { name: 'itemName', weight: 0.65 },
-        { name: 'description', weight: 0.25 },
-        { name: 'category', weight: 0.1 },
+        { name: 'description', weight: 0.15 },
+        { name: 'uom', weight: 0.15 },
+        { name: 'category', weight: 0.05 },
       ],
-      threshold: 0.35,
+      threshold: 0.3,
       ignoreLocation: true,
       includeScore: true,
       minMatchCharLength: 2,
     })
 
-    results = fuse.search(q).map(result => result.item)
+    let fuseResults = fuse.search(q)
+    
+    // Boost scoring for multi-word queries: boost items matching ALL query words
+    const queryWords = q.toLowerCase().split(/\s+/).filter(w => w.length > 0)
+    if (queryWords.length > 1) {
+      fuseResults = fuseResults.map(result => {
+        const searchableText = `${result.item.itemName} ${result.item.description} ${result.item.uom}`.toLowerCase()
+        const allWordsMatch = queryWords.every(word => searchableText.includes(word))
+        
+        // Reduce score for items matching all words (lower = better in Fuse)
+        return {
+          ...result,
+          score: allWordsMatch ? (result.score || 0) * 0.5 : result.score
+        }
+      })
+    }
+
+    results = fuseResults.map(result => result.item)
   } else {
     // Default browse mode: show affordable items first to speed up quick adding.
     results.sort((a, b) => {

@@ -118,29 +118,33 @@ export function SearchBar({ onItemAdd, selectedCategories = [] }: SearchBarProps
         )}
 
         {!loading && hasLoaded && results.length > 0 && (
-          <div className="rounded-xl border border-slate-200 overflow-hidden">
-            <div className="hidden md:grid grid-cols-[minmax(0,2fr)_minmax(0,1.15fr)_5.5rem_10.5rem_6.5rem] gap-3 px-4 py-2.5 bg-slate-50 border-b border-slate-200 text-[11px] uppercase tracking-[0.08em] text-slate-500 font-medium">
-              <p>Item</p>
-              <p>Category</p>
-              <p className="text-right">Best</p>
-              <p className="text-right">Supplier Prices</p>
-              <p className="text-right">Action</p>
-            </div>
-
+          <div className="rounded-xl border border-slate-200 bg-white/80 shadow-sm overflow-hidden">
             <div className="max-h-[560px] overflow-auto">
-              {results.map((item) => {
+              <div className="sticky top-0 z-10 hidden md:grid grid-cols-[minmax(0,2.25fr)_minmax(0,1fr)_7.25rem_9.25rem_5.75rem] gap-3 px-4 py-2.5 bg-white/95 backdrop-blur border-b border-slate-200 text-[11px] uppercase tracking-[0.08em] text-slate-500 font-medium">
+                <p>Item</p>
+                <p>Category</p>
+                <p className="text-right">Best</p>
+                <p className="text-right">Supplier Prices</p>
+                <p className="text-right">Action</p>
+              </div>
+
+              {results.map((item, index) => {
                 const sortedSuppliers = Object.entries(item.suppliers).sort((a, b) => a[1].price - b[1].price)
                 const bestPrice = sortedSuppliers[0]?.[1].price ?? 0
+                const secondBestPrice = sortedSuppliers[1]?.[1].price
+                const savings = secondBestPrice ? secondBestPrice - bestPrice : 0
                 const categoryLabel = item.category.split('-')[1]?.trim() || item.category
                 const isExpanded = !!expandedRows[item.id]
                 const shouldShowExpand = item.itemName.length > 54
 
                 return (
-                  <div
-                    key={item.id}
-                    className={`border-b border-slate-100 last:border-b-0 px-4 ${rowPadding} hover:bg-slate-50/70 transition`}
-                  >
-                    <div className="hidden md:grid grid-cols-[minmax(0,2fr)_minmax(0,1.15fr)_5.5rem_10.5rem_6.5rem] gap-3 items-center">
+                    <div
+                      key={item.id}
+                      className={`border-b border-slate-100/90 last:border-b-0 px-4 ${rowPadding} transition ${
+                        index % 2 === 0 ? 'bg-white' : 'bg-slate-50/35'
+                      } hover:bg-slate-50`}
+                    >
+                      <div className="hidden md:grid grid-cols-[minmax(0,2.25fr)_minmax(0,1fr)_7.25rem_9.25rem_5.75rem] gap-3 items-center">
                       <div className="min-w-0">
                         <p
                           className="text-sm font-medium text-slate-800 leading-snug"
@@ -172,13 +176,20 @@ export function SearchBar({ onItemAdd, selectedCategories = [] }: SearchBarProps
                         )}
                       </div>
 
-                      <p className="text-xs text-slate-600 truncate">{categoryLabel}</p>
+                        <p className="text-xs text-slate-600 truncate">{categoryLabel}</p>
 
-                      <p className="text-right text-sm font-semibold text-emerald-700">
-                        S${bestPrice.toFixed(2)}
-                      </p>
+                        <div className="text-right">
+                          <p className="inline-flex items-center justify-end rounded-full border border-emerald-200 bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-700 tabular-nums">
+                            Best S${bestPrice.toFixed(2)}
+                          </p>
+                          {savings > 0 && (
+                            <p className="mt-1 text-[11px] text-slate-500 tabular-nums">
+                              Save S${savings.toFixed(2)}
+                            </p>
+                          )}
+                        </div>
 
-                      <div className="text-right text-xs text-slate-600 space-y-0.5">
+                        <div className="text-right text-xs text-slate-600 space-y-0.5 tabular-nums">
                         <p>
                           {sortedSuppliers[0]?.[0]?.split(' ')[0] || '-'}: S${sortedSuppliers[0]?.[1]?.price.toFixed(2) || '0.00'}
                         </p>
@@ -192,9 +203,9 @@ export function SearchBar({ onItemAdd, selectedCategories = [] }: SearchBarProps
 
                       <button
                         onClick={() => onItemAdd?.(item)}
-                        className="justify-self-end h-8 px-3 rounded-md border border-slate-300 text-xs font-medium text-slate-700 hover:bg-slate-100 transition"
+                          className="justify-self-end h-8 px-3 rounded-md border border-slate-900/15 bg-slate-900 text-xs font-medium text-white hover:bg-slate-700 transition"
                       >
-                        + Add
+                          Add
                       </button>
                     </div>
 
@@ -230,10 +241,11 @@ export function SearchBar({ onItemAdd, selectedCategories = [] }: SearchBarProps
                         )}
                       </div>
 
-                      <div className="flex items-center justify-between gap-3">
+                        <div className="flex items-center justify-between gap-3">
                         <div className="text-xs text-slate-600 min-w-0">
                           <p className="truncate">{categoryLabel} • {item.uom}</p>
-                          <p className="text-emerald-700 font-semibold mt-0.5">Best S${bestPrice.toFixed(2)}</p>
+                            <p className="text-emerald-700 font-semibold mt-0.5 tabular-nums">Best S${bestPrice.toFixed(2)}</p>
+                            {savings > 0 && <p className="text-[11px] text-slate-500 mt-0.5 tabular-nums">Save S${savings.toFixed(2)}</p>}
                           {density === 'detailed' && sortedSuppliers[1] && (
                             <p className="text-slate-500 mt-0.5">
                               Next: {sortedSuppliers[1][0].split(' ')[0]} S${sortedSuppliers[1][1].price.toFixed(2)}
@@ -243,9 +255,9 @@ export function SearchBar({ onItemAdd, selectedCategories = [] }: SearchBarProps
 
                         <button
                           onClick={() => onItemAdd?.(item)}
-                          className="h-8 px-3 rounded-md border border-slate-300 text-xs font-medium text-slate-700 hover:bg-slate-100 transition"
+                          className="h-8 px-3 rounded-md border border-slate-900/15 bg-slate-900 text-xs font-medium text-white hover:bg-slate-700 transition"
                         >
-                          + Add
+                          Add
                         </button>
                       </div>
                     </div>

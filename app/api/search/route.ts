@@ -47,19 +47,36 @@ export async function GET(request: NextRequest) {
 
     let fuseResults = fuse.search(q)
     
-    // Boost scoring for multi-word queries: boost items matching ALL query words
+    // Boost scoring for multi-word queries: prioritize items matching ALL query words
     const queryWords = q.toLowerCase().split(/\s+/).filter(w => w.length > 0)
     if (queryWords.length > 1) {
       fuseResults = fuseResults.map(result => {
-        const searchableText = `${result.item.itemName} ${result.item.description} ${result.item.uom}`.toLowerCase()
+        const itemNameLower = result.item.itemName.toLowerCase()
+        const descriptionLower = result.item.description.toLowerCase()
+        const uomLower = result.item.uom.toLowerCase()
+        const searchableText = `${itemNameLower} ${descriptionLower} ${uomLower}`
+        
+        // Check if all words match in itemName (strongest match)
+        const allInItemName = queryWords.every(word => itemNameLower.includes(word))
+        // Check if all words match overall
         const allWordsMatch = queryWords.every(word => searchableText.includes(word))
         
-        // Reduce score for items matching all words (lower = better in Fuse)
+        // Aggressive boosting: much lower score for better matches
+        let boostedScore = result.score || 0
+        if (allInItemName) {
+          boostedScore = boostedScore * 0.1 // Very strong boost
+        } else if (allWordsMatch) {
+          boostedScore = boostedScore * 0.3 // Moderate boost
+        }
+        
         return {
           ...result,
-          score: allWordsMatch ? (result.score || 0) * 0.5 : result.score
+          score: boostedScore
         }
       })
+      
+      // Re-sort by boosted scores
+      fuseResults.sort((a, b) => (a.score || 0) - (b.score || 0))
     }
 
     results = fuseResults.map(result => result.item)

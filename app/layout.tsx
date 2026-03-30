@@ -8,7 +8,7 @@ const manrope = Manrope({
 })
 
 export const metadata: Metadata = {
-  title: 'Procure Fast',
+  title: 'Procure Faster',
   description: 'Quick procurement search and price comparison',
 }
 

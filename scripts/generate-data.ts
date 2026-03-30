@@ -1,4 +1,4 @@
-import { processExcelData } from './lib/data-processor'
+import { processExcelData } from '../lib/data-processor'
 import * as fs from 'fs'
 import * as path from 'path'
 

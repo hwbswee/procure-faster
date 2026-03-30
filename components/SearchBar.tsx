@@ -22,6 +22,7 @@ export function SearchBar({ onItemAdd, selectedCategories = [] }: SearchBarProps
   const [loading, setLoading] = useState(false)
   const [hasLoaded, setHasLoaded] = useState(false)
   const [density, setDensity] = useState<'compact' | 'detailed'>('compact')
+  const [expandedRows, setExpandedRows] = useState<Record<string, boolean>>({})
 
   useEffect(() => {
     if (selectedCategories.length === 0) {
@@ -55,6 +56,13 @@ export function SearchBar({ onItemAdd, selectedCategories = [] }: SearchBarProps
 
   const isQuickBrowse = query.trim().length === 0
   const rowPadding = density === 'compact' ? 'py-2.5' : 'py-3.5'
+
+  const toggleExpandedRow = (id: string) => {
+    setExpandedRows(prev => ({
+      ...prev,
+      [id]: !prev[id],
+    }))
+  }
 
   return (
     <div className="mb-6">
@@ -124,6 +132,8 @@ export function SearchBar({ onItemAdd, selectedCategories = [] }: SearchBarProps
                 const sortedSuppliers = Object.entries(item.suppliers).sort((a, b) => a[1].price - b[1].price)
                 const bestPrice = sortedSuppliers[0]?.[1].price ?? 0
                 const categoryLabel = item.category.split('-')[1]?.trim() || item.category
+                const isExpanded = !!expandedRows[item.id]
+                const shouldShowExpand = item.itemName.length > 54
 
                 return (
                   <div
@@ -132,10 +142,34 @@ export function SearchBar({ onItemAdd, selectedCategories = [] }: SearchBarProps
                   >
                     <div className="hidden md:grid grid-cols-[minmax(0,2fr)_minmax(0,1.15fr)_5.5rem_10.5rem_6.5rem] gap-3 items-center">
                       <div className="min-w-0">
-                        <p className="text-sm font-medium text-slate-800 truncate">{item.itemName}</p>
+                        <p
+                          className="text-sm font-medium text-slate-800 leading-snug"
+                          title={item.itemName}
+                          style={
+                            density === 'compact' && !isExpanded
+                              ? {
+                                  display: '-webkit-box',
+                                  WebkitLineClamp: 2,
+                                  WebkitBoxOrient: 'vertical',
+                                  overflow: 'hidden',
+                                }
+                              : undefined
+                          }
+                        >
+                          {item.itemName}
+                        </p>
                         <p className="text-xs text-slate-500 truncate">
                           {density === 'compact' ? item.uom : `${item.description} • ${item.uom}`}
                         </p>
+                        {density === 'compact' && shouldShowExpand && (
+                          <button
+                            type="button"
+                            onClick={() => toggleExpandedRow(item.id)}
+                            className="mt-1 text-[11px] text-slate-500 hover:text-slate-700 underline-offset-2 hover:underline"
+                          >
+                            {isExpanded ? 'Show less' : 'View full name'}
+                          </button>
+                        )}
                       </div>
 
                       <p className="text-xs text-slate-600 truncate">{categoryLabel}</p>
@@ -166,10 +200,34 @@ export function SearchBar({ onItemAdd, selectedCategories = [] }: SearchBarProps
 
                     <div className="md:hidden space-y-2">
                       <div>
-                        <p className="text-sm font-medium text-slate-800 leading-snug">{item.itemName}</p>
+                        <p
+                          className="text-sm font-medium text-slate-800 leading-snug"
+                          title={item.itemName}
+                          style={
+                            density === 'compact' && !isExpanded
+                              ? {
+                                  display: '-webkit-box',
+                                  WebkitLineClamp: 2,
+                                  WebkitBoxOrient: 'vertical',
+                                  overflow: 'hidden',
+                                }
+                              : undefined
+                          }
+                        >
+                          {item.itemName}
+                        </p>
                         <p className="text-xs text-slate-500 mt-0.5">
                           {density === 'compact' ? item.uom : item.description}
                         </p>
+                        {density === 'compact' && shouldShowExpand && (
+                          <button
+                            type="button"
+                            onClick={() => toggleExpandedRow(item.id)}
+                            className="mt-1 text-[11px] text-slate-500 hover:text-slate-700 underline-offset-2 hover:underline"
+                          >
+                            {isExpanded ? 'Show less' : 'View full name'}
+                          </button>
+                        )}
                       </div>
 
                       <div className="flex items-center justify-between gap-3">

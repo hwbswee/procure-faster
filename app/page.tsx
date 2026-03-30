@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react'
 import { SearchBar } from '@/components/SearchBar'
 import { CategoryFilter } from '@/components/CategoryFilter'
 import { ProcurementList } from '@/components/ProcurementList'
+import { getSourceDataAsOfLabel } from '@/lib/source-metadata'
 
 interface CartItem {
   id: string
@@ -24,6 +25,7 @@ interface SavedTemplate {
 }
 
 const TEMPLATE_STORAGE_KEY = 'procure-fast:templates'
+const supplierDataAsOf = getSourceDataAsOfLabel()
 
 export default function Home() {
   const [selectedCategories, setSelectedCategories] = useState<string[]>([])
@@ -165,6 +167,7 @@ export default function Home() {
         <div className="mb-8 sm:mb-10">
           <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight text-slate-800 mb-2">Procure Faster</h1>
           <p className="text-sm text-slate-600">Browse by category, then add items in one click.</p>
+          <p className="text-xs text-slate-500 mt-1">Supplier data accurate as of {supplierDataAsOf}.</p>
         </div>
 
         {/* Category Filter */}

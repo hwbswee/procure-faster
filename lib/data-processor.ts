@@ -1,6 +1,7 @@
 import { read, utils, type WorkSheet } from 'xlsx'
 import * as fs from 'fs'
 import * as path from 'path'
+import { SOURCE_EXCEL_FILENAME } from './source-metadata'
 
 interface Item {
   id: string
@@ -28,7 +29,7 @@ const SUPPLIERS = [
 ]
 
 export async function processExcelData(): Promise<Item[]> {
-  const excelPath = path.join(process.cwd(), 'data', 'Annex B-Cost Summary_11Jul2025 (Final).xlsx')
+  const excelPath = path.join(process.cwd(), 'data', SOURCE_EXCEL_FILENAME)
   const workbook = read(fs.readFileSync(excelPath))
 
   const items: Item[] = []

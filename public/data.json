@@ -1,0 +1,7547 @@
+[
+  {
+    "id": "cat-a-beverages-0",
+    "category": "Cat A-Beverages",
+    "itemName": "NESTLE NESTUM BROWN RICE 3 IN 1 INSTANT CEREAL MILK DRINK, 27G X 12 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.77,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-1",
+    "category": "Cat A-Beverages",
+    "itemName": "QUAKER 3-IN-1 OAT CEREAL DRINK (ASSORTED FLAVOURS), 28G X 15 SACHETS PER PACK \r\n\r\nASSORTED FLAVOURS SELECTION: VANILLA, CHOCOLATE",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.2,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.2,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-2",
+    "category": "Cat A-Beverages",
+    "itemName": "QUAKER INSTANT OATMEAL, 800G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.28,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-3",
+    "category": "Cat A-Beverages",
+    "itemName": "QUAKER INSTANT OATMEAL, 800G PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.45,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-4",
+    "category": "Cat A-Beverages",
+    "itemName": "SUPER NUTREMILL (CHOCOLATE) CEREAL, 540G, 18 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.35,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-5",
+    "category": "Cat A-Beverages",
+    "itemName": "SUPER NUTREMILL (ORIGINAL) CEREAL, 504G, 18 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.35,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-6",
+    "category": "Cat A-Beverages",
+    "itemName": "SUPER NUTREMILL (BROWN RICE) CEREAL, 540G, 18 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.55,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-7",
+    "category": "Cat A-Beverages",
+    "itemName": "BONCAFE 100% PURE COLOMBIANA GOURMET COFFEE BEANS, MOCCA, 200G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 8,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-8",
+    "category": "Cat A-Beverages",
+    "itemName": "BONCAFE 100% PURE COLOMBIANA GOURMET COFFEE BEANS, MOCCA, 500G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 21.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 16,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-9",
+    "category": "Cat A-Beverages",
+    "itemName": "BONCAFE 100% PURE COLOMBIANA GOURMET COFFEE POWDER, MOCCA, 200G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 8,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-10",
+    "category": "Cat A-Beverages",
+    "itemName": "BONCAFE GOURMET ALL DAY COFFEE BEANS, 200G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 8,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-11",
+    "category": "Cat A-Beverages",
+    "itemName": "OWL ROAST AND GROUND COFFEE POWDER HERITAGE BLEND, 500G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6.35,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B"
+    }
+  },
+  {
+    "id": "cat-a-beverages-12",
+    "category": "Cat A-Beverages",
+    "itemName": "AIK CHEONG KOPI-O COFFEE MIXTURE BAGS (ORIGINAL), 10G X 20 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.15,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-13",
+    "category": "Cat A-Beverages",
+    "itemName": "CAFE 21 LOW FAT 2-IN-1 INSTANT COFFEE MIX, 14G X 18 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.96
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.15,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B"
+    }
+  },
+  {
+    "id": "cat-a-beverages-14",
+    "category": "Cat A-Beverages",
+    "itemName": "GOLD KILI 2-IN-1 INSTANT KOPI-O LESS SUGAR, 16G X 20 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.38,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-15",
+    "category": "Cat A-Beverages",
+    "itemName": "GOLD KILI 3-IN-1 INSTANT TRADITIONAL COFFEE, 20G X 30 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.7,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-16",
+    "category": "Cat A-Beverages",
+    "itemName": "GOLD KILI TRADITIONAL KOPI O KOSONG, 10G X 20 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.47,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.45,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-17",
+    "category": "Cat A-Beverages",
+    "itemName": "GOLD ROAST KOPI-O KOSONG, 9G X 20 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.33,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.25,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-18",
+    "category": "Cat A-Beverages",
+    "itemName": "GOLD ROAST KOPI-O REDUCED SUGAR, 17G X 20 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.33,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.25,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-19",
+    "category": "Cat A-Beverages",
+    "itemName": "GOLD ROAST REDUCED SUGAR 3-IN-1 INSTANT COFFEE MIX, 15G X 22 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.72,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B"
+    }
+  },
+  {
+    "id": "cat-a-beverages-20",
+    "category": "Cat A-Beverages",
+    "itemName": "MR CAFE INSTANT COFFEE MIX 3-IN-1, 20G X 40 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.85,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.2,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B"
+    }
+  },
+  {
+    "id": "cat-a-beverages-21",
+    "category": "Cat A-Beverages",
+    "itemName": "NESCAFE 2-IN-1 INSTANT WHITE COFFEE GAO KOSONG, 20G X 15 STICKS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.59,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.13,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-22",
+    "category": "Cat A-Beverages",
+    "itemName": "NESCAFE 3-IN-1 ORIGINAL LESS SUGAR INSTANT COFFEE, 14G X 30 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.14,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-23",
+    "category": "Cat A-Beverages",
+    "itemName": "NESCAFE CLASSIC JAR, 200G PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-24",
+    "category": "Cat A-Beverages",
+    "itemName": "NESCAFE CLASSIC STICK PACK, 2G X 480 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 58,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 45,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-25",
+    "category": "Cat A-Beverages",
+    "itemName": "NESCAFE CLASSIC, 500G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 19.55,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 15,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-26",
+    "category": "Cat A-Beverages",
+    "itemName": "NESCAFE GOLD BLEND STICKS, 1.8G X 200 STICKS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 72.44,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 50,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-27",
+    "category": "Cat A-Beverages",
+    "itemName": "NESCAFE GOLD DECAFFEINATED COFFEE JAR, 200G PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 15.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 15,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-28",
+    "category": "Cat A-Beverages",
+    "itemName": "NESCAFE GOLD INSTANT COFFEE, 200G PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 16.15,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 11,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-29",
+    "category": "Cat A-Beverages",
+    "itemName": "NESCAFE LOW FAT MILK COFFEE CAN DRINK (ASSORTED FLAVOURS), 240ML X 24 CANS PER CARTON \r\n\r\nASSORTED FLAVOURS SELECTION: ORIGINAL, MOCHA, LATTE",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 22.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 17,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-30",
+    "category": "Cat A-Beverages",
+    "itemName": "NESCAFE ORIGINAL 2-IN-1 ZERO SUGAR ADDED INSTANT COFFEE, 8.5G X 30 STICKS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.14,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-31",
+    "category": "Cat A-Beverages",
+    "itemName": "OWL KOPITIAM ROAST & GROUND TRADITIONAL BLEND COFFEE (BLACK COFFEE FREE FROM SUGAR), 5.5G X 40 SACHETS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.14,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-32",
+    "category": "Cat A-Beverages",
+    "itemName": "SUPER LESS SUGAR 3-IN-1 COFFEE, 15G X 35 STICKS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.75,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.25,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-33",
+    "category": "Cat A-Beverages",
+    "itemName": "LIPTON CLASSIC MILK TEA 3-IN-1 INSTANT, 20G X 12 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.85,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B"
+    }
+  },
+  {
+    "id": "cat-a-beverages-34",
+    "category": "Cat A-Beverages",
+    "itemName": "MR TEA 3-IN-1 INSTANT MILK TEA LESS SUGAR, 17G X 20 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.25,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-35",
+    "category": "Cat A-Beverages",
+    "itemName": "SUPER 3-IN-1 INSTANT MILK TEA LESS SUGAR, 18G X 25 STICKS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.73,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.8,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-36",
+    "category": "Cat A-Beverages",
+    "itemName": "100 PLUS BOTTLE DRINK (ORIGINAL), 500ML X 24 BOTTLES PER CARTON\r\n\r\nASSORTED FLAVOURS SELECTION: ZERO SUGAR, ISOTONIC",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 24,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 16,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-37",
+    "category": "Cat A-Beverages",
+    "itemName": "100 PLUS CAN DRINK (ORIGINAL), 325ML X 24 CANS PER CARTON\r\n\r\nASSORTED FLAVOURS SELECTION: ZERO SUGAR, ISOTONIC",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 14.65,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 11.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-38",
+    "category": "Cat A-Beverages",
+    "itemName": "YEO'S H-TWO-O ORIGINAL ISOTONIC DRINK, 300ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 12.25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 10,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-39",
+    "category": "Cat A-Beverages",
+    "itemName": "YEO'S H-TWO-O ORIGINAL ISOTONIC DRINK, 500ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 20.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 17,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-40",
+    "category": "Cat A-Beverages",
+    "itemName": "POKKA NATSBEE HONEY LEMON (LESS SUGAR) BOTTLED DRINK, 500ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 19,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-41",
+    "category": "Cat A-Beverages",
+    "itemName": "RIBENA BLACKCURRANT LIGHT LESS SWEET FRUIT DRINK PACKET, 200ML X 24 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 11.75,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 10,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-42",
+    "category": "Cat A-Beverages",
+    "itemName": "UFC TETRA PAK 100% NATURAL COCONUT WATER, 500ML X 12 PACKS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 22.25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 17,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-43",
+    "category": "Cat A-Beverages",
+    "itemName": "YEO'S PINK DOLPHIN VITAMINISED DRINK (PEACH FLAVOUR), 250ML X 24 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 11,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 8,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-44",
+    "category": "Cat A-Beverages",
+    "itemName": "YEO'S PINK DOLPHIN VITAMINISED DRINK (PEACH FLAVOUR), 500ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 25.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 19.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-45",
+    "category": "Cat A-Beverages",
+    "itemName": "HORLICKS 3-IN-1 MALT (ORIGINAL), 28G X 10 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.52,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.2,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-46",
+    "category": "Cat A-Beverages",
+    "itemName": "HORLICKS INSTANT MALTED DRINK POWDER (ORIGINAL), 360G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.78,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.25,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-47",
+    "category": "Cat A-Beverages",
+    "itemName": "HORLICKS INSTANT MALTED DRINK POWDER (ORIGINAL), 900G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10.75,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 9,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-48",
+    "category": "Cat A-Beverages",
+    "itemName": "NESTLE MILO ACTI-GO REFILL, 1.2KG PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 12.15,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-49",
+    "category": "Cat A-Beverages",
+    "itemName": "NESTLE MILO CHOCOLATE MALT UHT PACKET DRINK, 200ML X 24 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 13.69,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 11,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-50",
+    "category": "Cat A-Beverages",
+    "itemName": "NESTLE MILO ACTIV-GO REGULAR POWDER , 400G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.58,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-51",
+    "category": "Cat A-Beverages",
+    "itemName": "NESTLE MILO ACTIV-GO TIN, 1.8KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 17,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 15,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-52",
+    "category": "Cat A-Beverages",
+    "itemName": "NESTLE MILO CHOCOLATE MALT CAN DRINK (ORIGINAL/CALCIUM PLUS), 240ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 17,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-53",
+    "category": "Cat A-Beverages",
+    "itemName": "NESTLE MILO GAO KOSONG POWDER, 750G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8.66,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 8,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-54",
+    "category": "Cat A-Beverages",
+    "itemName": "NESTLE MILO GAO SIEW DAI (50% LESS SUGAR), 33G X 13 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.29,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-55",
+    "category": "Cat A-Beverages",
+    "itemName": "ANLENE ACTIFIT 3X ADULT MILK POWDER (PLAIN), 1KG PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 20.7,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-56",
+    "category": "Cat A-Beverages",
+    "itemName": "COWHEAD UHT PURE MILK, 1 LITRE X 12 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 20,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "C, Allowed because of the exception to provide plain full cream milk."
+    }
+  },
+  {
+    "id": "cat-a-beverages-57",
+    "category": "Cat A-Beverages",
+    "itemName": "DUTCH LADY PURE FARM UHT LOW FAT MILK, 200ML X 24 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 15.55,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 13,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-58",
+    "category": "Cat A-Beverages",
+    "itemName": "F&N MAGNOLIA UHT FRESH MILK, 1 LITRE X 12 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 27.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 25,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "C, Allowed because of the exception to provide plain full cream milk."
+    }
+  },
+  {
+    "id": "cat-a-beverages-59",
+    "category": "Cat A-Beverages",
+    "itemName": "FARMHOUSE UHT FRESH MILK, 1 LITRE X 12 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 32.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 25,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "C, Allowed because of the exception to provide plain full cream milk."
+    }
+  },
+  {
+    "id": "cat-a-beverages-60",
+    "category": "Cat A-Beverages",
+    "itemName": "MARIGOLD FULL CREAM MILK, 200ML X 24 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 13.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 13,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "C, Allowed because of the exception to provide plain full cream milk."
+    }
+  },
+  {
+    "id": "cat-a-beverages-61",
+    "category": "Cat A-Beverages",
+    "itemName": "MARIGOLD UHT LOW FAT MILK, 1 LITRE PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.05,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-62",
+    "category": "Cat A-Beverages",
+    "itemName": "NESTLE OMEGA PLUS ADULT READY TO DRINK MILK, 200ML X 24 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 20.37,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 20,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-63",
+    "category": "Cat A-Beverages",
+    "itemName": "ALAMO MINERAL WATER, 330ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.25,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-64",
+    "category": "Cat A-Beverages",
+    "itemName": "ALPHEUS DISTILLED PURE WATER, 500ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.2
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7.5
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-65",
+    "category": "Cat A-Beverages",
+    "itemName": "AQUA MOUNTAIN SPRING WATER, 330ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 9.75,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-66",
+    "category": "Cat A-Beverages",
+    "itemName": "EVIAN MINERAL WATER, 330ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 27,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 20.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-67",
+    "category": "Cat A-Beverages",
+    "itemName": "EVIAN MINERAL WATER, 500ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 35,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 26.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-68",
+    "category": "Cat A-Beverages",
+    "itemName": "EVIAN SPARKLING CAN MINERAL WATER, 330ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 45,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 36,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-69",
+    "category": "Cat A-Beverages",
+    "itemName": "F&N ICE MOUNTAIN CAN DRINKING WATER, 300ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8.25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-70",
+    "category": "Cat A-Beverages",
+    "itemName": "F&N ICE MOUNTAIN DRINKING WATER, 1.5 LITRES X 12 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-71",
+    "category": "Cat A-Beverages",
+    "itemName": "F&N ICE MOUNTAIN DRINKING WATER, 600ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.7,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.8,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-72",
+    "category": "Cat A-Beverages",
+    "itemName": "F&N ICE MOUNTAIN TETRA PAK DRINKING WATER, 500ML X 12 PACKS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 10.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-73",
+    "category": "Cat A-Beverages",
+    "itemName": "FIRSTWATER CAN STILL WATER, 330ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 33.72
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-74",
+    "category": "Cat A-Beverages",
+    "itemName": "FOOTPRINTS TETRA PAK ALKALINE WATER, 500ML X 24 PACKS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 15.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 14,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-75",
+    "category": "Cat A-Beverages",
+    "itemName": "POLAR MINERAL WATER, 330ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.3,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-76",
+    "category": "Cat A-Beverages",
+    "itemName": "POLAR NATURAL MINERAL WATER, 230ML X 48 CUPS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-77",
+    "category": "Cat A-Beverages",
+    "itemName": "PUREWATER CAN PURE DRINKING WATER, 330ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 14,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 10,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-78",
+    "category": "Cat A-Beverages",
+    "itemName": "PUREWATER TETRA PAK PURE DRINKING WATER, 330ML X 12 PACKS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8.12,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-79",
+    "category": "Cat A-Beverages",
+    "itemName": "PUREWATER TETRA PAK PURE DRINKING WATER, 500ML X 12 PACKS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 9.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-80",
+    "category": "Cat A-Beverages",
+    "itemName": "SPLASH DISTILLED / PURE DRINKING WATER, 230ML X 48 CUPS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.8,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-81",
+    "category": "Cat A-Beverages",
+    "itemName": "SPLASH PURE MINERALISED WATER, 1.5 LITRES X 12 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.75,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-82",
+    "category": "Cat A-Beverages",
+    "itemName": "SPLASH PURE MINERALISED WATER, 350ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.7,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-83",
+    "category": "Cat A-Beverages",
+    "itemName": "SPLASH PURE MINERALISED WATER, 500ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-84",
+    "category": "Cat A-Beverages",
+    "itemName": "SWITZER SPRING CUP PURE DRINKING WATER, 230ML X 48 CUPS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.4,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.8,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-85",
+    "category": "Cat A-Beverages",
+    "itemName": "SWITZER SPRING PURE DRINKING WATER, 500ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-86",
+    "category": "Cat A-Beverages",
+    "itemName": "YEO'S SPARKLE TETRA PAK DRINKING WATER, 330ML X 12 PACKS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 9.6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-87",
+    "category": "Cat A-Beverages",
+    "itemName": "F&N NUTRISOY REDUCED SUGAR SOYA MILK, 300ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 13.07,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 10.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-88",
+    "category": "Cat A-Beverages",
+    "itemName": "F&N SEASONS BARLEY DRINK, 300ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 13,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 10.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-89",
+    "category": "Cat A-Beverages",
+    "itemName": "F&N SEASONS WHITE CHRYSANTHEMUM DRINK, 300ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 13,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-90",
+    "category": "Cat A-Beverages",
+    "itemName": "MARIGOLD LESS SWEET PACKET DRINKS (ASSORTED FLAVOURS), 250ML X 24 PACKETS PER CARTON \r\n\r\nASSORTED FLAVOURS SELECTION: CHRYSANTHEMUM TEA, LEMON BARLEY, LYCHEE, LONGAN RED DATES, SOYA BEAN, ICE PEACH TEA, ICE LEMON TEA, JASMINE GREEN TEA",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 9.2,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7.2,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-91",
+    "category": "Cat A-Beverages",
+    "itemName": "POKKA PACKET DRINKS (ASSORTED FLAVOURS), 250ML X 24 PACKETS PER CARTON \r\n\r\nASSORTED FLAVOURS SELECTION: JASMINE GREEN TEA, OOLONG TEA,  CHRYSANTHEMUM WHITE TEA,  ICE LEMON TEA LESS SUGAR, SOYA BEAN DRINK LESS SUGAR, PEACH OOLONG TEA LESS SUGAR",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 11.25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 9,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-92",
+    "category": "Cat A-Beverages",
+    "itemName": "VITASOY SOYA BEAN LESS SUGAR PACKET DRINK, 250ML X 24 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 13.2,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 13,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-93",
+    "category": "Cat A-Beverages",
+    "itemName": "YEO'S JUSTEA WHITE GRAPE GREEN TEA 250ML X 24 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8.6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-94",
+    "category": "Cat A-Beverages",
+    "itemName": "YEO'S LESS SUGAR (ASSORTED FLAVOURS) PACKET DRINK, 250ML X 24 PACKETS PER CARTON \r\n\r\nASSORTED FLAVOURS SELECTION: CHRYSANTHEMUM TEA, WINTER MELON TEA, LEMON BARLEY, LONGAN RED DATE,  SOY BEAN MILK, LEMON TEA",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8.6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-95",
+    "category": "Cat A-Beverages",
+    "itemName": "COCA COLA COKE LIGHT, 320ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 19.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 13,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-96",
+    "category": "Cat A-Beverages",
+    "itemName": "COCA COLA COKE ZERO SUGAR, 320ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 19.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 13,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-97",
+    "category": "Cat A-Beverages",
+    "itemName": "F&N OUTRAGEOUS ORANGE, 325ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 14.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 10.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-98",
+    "category": "Cat A-Beverages",
+    "itemName": "F&N SARSI, 325ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 14.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 10.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-99",
+    "category": "Cat A-Beverages",
+    "itemName": "RIBENA LIGHTLY SPARKLING BLACKCURRANT FRUIT DRINK, 320ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 13,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 19,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B"
+    }
+  },
+  {
+    "id": "cat-a-beverages-100",
+    "category": "Cat A-Beverages",
+    "itemName": "AUTHENTIC TEA HOUSE TEA (ASSORTED FLAVOURS), 300ML X 24 CANS PER CARTON \r\n\r\n\r\nASSORTED FLAVOURS SELECTION: AYATAKA JAPANESE GREEN TEA, DA HONG PAO OOLONG TEA",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 16.14,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 11,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-101",
+    "category": "Cat A-Beverages",
+    "itemName": "BOH CAMERON HIGHLAND TEA, 200G, 100 TEA BAGS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.2,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-102",
+    "category": "Cat A-Beverages",
+    "itemName": "BOH GREEN TEA, 75G, 50 TEA BAGS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.8,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-103",
+    "category": "Cat A-Beverages",
+    "itemName": "COFFEE HOCK 100% NATURAL CHRYSANTHEMUM TEABAG WITH BROWN RAW SUGAR (LESS SUGAR), 10G X 10 TEA BAGS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.75,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.35,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-104",
+    "category": "Cat A-Beverages",
+    "itemName": "COFFEE HOCK 100% NATURAL GINGER POWDER TEABAG WITH BROWN RAW SUGAR (LESS SUGAR), 12G X 10 TEA BAGS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.75,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.35,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-105",
+    "category": "Cat A-Beverages",
+    "itemName": "DILMAH EARL GREY TEA (INDIVIDUALLY FOIL WRAPPED), 50G, 25 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.4,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.95,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-106",
+    "category": "Cat A-Beverages",
+    "itemName": "DILMAH INFUSION PURE CAMOMILE FLOWERS TEA (INDIVIDUALLY FOIL WRAPPED), 30G, 20 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.25,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-107",
+    "category": "Cat A-Beverages",
+    "itemName": "DILMAH INFUSION ZESTY LEMON TEA, 30G, 20 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.98,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.75,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-108",
+    "category": "Cat A-Beverages",
+    "itemName": "DILMAH JASMINE GREEN TEA (INDIVIDUALLY FOIL WRAPPED), 30G, 20 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.7,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.35,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-109",
+    "category": "Cat A-Beverages",
+    "itemName": "DILMAH PURE CEYLON TEA, 200G, 100 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 11.7,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.45,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-110",
+    "category": "Cat A-Beverages",
+    "itemName": "F&N SEASONS ICE LEMON TEA, 300ML X 24 CANS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 13,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 10.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-111",
+    "category": "Cat A-Beverages",
+    "itemName": "ITO EN OI OCHA UNSWEETENED GREEN TEA, 500ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 24.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 20,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-112",
+    "category": "Cat A-Beverages",
+    "itemName": "ITO EN TRADITIONAL MATCHA GREEN TEA BAGS, 30G, 20 SACHETS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.65,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-113",
+    "category": "Cat A-Beverages",
+    "itemName": "ITO EN UNSWEETENED JASMINE GREEN TEA, 500ML X 24 BOTTLES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 24.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 21,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-114",
+    "category": "Cat A-Beverages",
+    "itemName": "LIPTON GREEN TEA, 75G, 50 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-115",
+    "category": "Cat A-Beverages",
+    "itemName": "LIPTON YELLOW LABEL TEA (INDIVIDUALLY WRAPPED), 200G, 100 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 11.1,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-116",
+    "category": "Cat A-Beverages",
+    "itemName": "LIPTON YELLOW LABEL TEA, 50G, 25 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.65,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-117",
+    "category": "Cat A-Beverages",
+    "itemName": "LIPTON YELLOW LABEL TEA, 100G, 50 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.65,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.6,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-118",
+    "category": "Cat A-Beverages",
+    "itemName": "LIPTON YELLOW LABEL TEA, 200G, 100 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.75,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-119",
+    "category": "Cat A-Beverages",
+    "itemName": "OSK JAPANESE GREEN TEA BAGS (ASSORTED FLAVOURS), 2G X 50 TEA BAGS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: JAPANESE GREEN TEA, JAPANESE  TEA MIXED WITH ROASTED RICE, ROASTED JAPANESE GREEN TEA",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.51,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-120",
+    "category": "Cat A-Beverages",
+    "itemName": "POKKA CAN DRINKS (ASSORTED FLAVOURS), 300ML X 24 CANS PER CARTON \r\n\r\nASSORTED FLAVOURS SELECTION: JASMINE GREEN TEA, OOLONG TEA, PEACH OOLONG TEA, PEPPERMINT GREEN TEA",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 15.78,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 13,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "B",
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-121",
+    "category": "Cat A-Beverages",
+    "itemName": "POKKA CAN DRINKS (ASSORTED FLAVOURS), 300ML X 24 CANS PER CARTON \r\n\r\nASSORTED FLAVOURS SELECTION: SENCHA JAPANESE GREEN TEA, HOUJICHA JAPANESE ROASTED TEA",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 15.78,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 13,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-122",
+    "category": "Cat A-Beverages",
+    "itemName": "POKKA PACKET DRINKS (ASSORTED FLAVOURS), 250ML X 24 PACKETS PER CARTON \r\n\r\nASSORTED FLAVOURS SELECTION: SENCHA JAPANESE GREEN TEA, HOUJICHA JAPANESE ROASTED TEA",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 11.25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 9,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-123",
+    "category": "Cat A-Beverages",
+    "itemName": "RED SUN JAPANESE GREEN TEA, 2G X 50 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6.5
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-124",
+    "category": "Cat A-Beverages",
+    "itemName": "RICKSHAW JASMINE TEA, 1.8G X 100 SACHETS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-125",
+    "category": "Cat A-Beverages",
+    "itemName": "SEA DYKE FUJIAN OOLONG TEA, 40G, 20 SACHETS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.2
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.25,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-126",
+    "category": "Cat A-Beverages",
+    "itemName": "SEA DYKE TIE KUAN YIN TEA, 40G, 20 SACHETS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.68
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.6,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-127",
+    "category": "Cat A-Beverages",
+    "itemName": "SUNFLOWER FUJIAN JASMINE TEA, 454G PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 9.5
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-128",
+    "category": "Cat A-Beverages",
+    "itemName": "TIPSON EARL GREY BLACK TEA, 2G X 25 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.18,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.75,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-129",
+    "category": "Cat A-Beverages",
+    "itemName": "TIPSON JASMINE GREEN TEA, 1.5G X 25 TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.18,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.75,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-130",
+    "category": "Cat A-Beverages",
+    "itemName": "TIPSON TURMERIC AND CAMOMILE, 37.5G, 25 ENVELOPED TEA BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.35,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "A"
+    }
+  },
+  {
+    "id": "cat-a-beverages-131",
+    "category": "Cat A-Beverages",
+    "itemName": "YEO'S FIRST HARVEST GREEN TEA LESS SUGAR PACKET DRINK, 250ML X 24 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 9.1,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-132",
+    "category": "Cat A-Beverages",
+    "itemName": "CARNATION LOW FAT HIGH CALCIUM EVAPORATED MILK, 405G PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.07
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-133",
+    "category": "Cat A-Beverages",
+    "itemName": "ILITE SKIMMED MILK POWDER, 3G X 1000 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 88,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 80,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-a-beverages-134",
+    "category": "Cat A-Beverages",
+    "itemName": "MILKMAID LOW FAT SWEETENED CONDENSED SKIMMED MILK, 392G PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.15,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "hcsLogo": true
+    }
+  },
+  {
+    "id": "cat-a-beverages-135",
+    "category": "Cat A-Beverages",
+    "itemName": "FINE SALT, 500G PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.57,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.5,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-a-beverages-136",
+    "category": "Cat A-Beverages",
+    "itemName": "EQUAL CLASSIC SWEETENER SACHETS SUGAR, 1G X 50 SACHETS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "Allowed because of the exception to provide pure sugar."
+    }
+  },
+  {
+    "id": "cat-a-beverages-137",
+    "category": "Cat A-Beverages",
+    "itemName": "EQUAL CLASSIC SWEETENER SACHETS SUGAR, 1G X 100 SACHETS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8.6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "Allowed because of the exception to provide pure sugar."
+    }
+  },
+  {
+    "id": "cat-a-beverages-138",
+    "category": "Cat A-Beverages",
+    "itemName": "SIS FINE GAIN WHITE SUGAR, 1KG PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.06,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "Allowed because of the exception to provide pure sugar."
+    }
+  },
+  {
+    "id": "cat-a-beverages-139",
+    "category": "Cat A-Beverages",
+    "itemName": "SIS FINE GAIN WHITE SUGAR, 2KG PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.95,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.7,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "Allowed because of the exception to provide pure sugar."
+    }
+  },
+  {
+    "id": "cat-a-beverages-140",
+    "category": "Cat A-Beverages",
+    "itemName": "SIS FINE GRAIN WHITE SUGAR SACHETS, 5G X 100 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.05,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.5,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "Allowed because of the exception to provide pure sugar."
+    }
+  },
+  {
+    "id": "cat-a-beverages-141",
+    "category": "Cat A-Beverages",
+    "itemName": "SIS NATURAL GRANULATED RAW SUGAR SACHET, 5G X 100 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.69,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "Allowed because of the exception to provide pure sugar at the side."
+    }
+  },
+  {
+    "id": "cat-a-beverages-142",
+    "category": "Cat A-Beverages",
+    "itemName": "SIS NATURAL GRANULATED RAW SUGAR STICK, 3.5G X 100 STICKS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3,
+        "halal": true
+      }
+    },
+    "compliance": {
+      "nutriGrade": "Allowed because of the exception to provide pure sugar at the side."
+    }
+  },
+  {
+    "id": "cat-b-snacks-0",
+    "category": "Cat B-Snacks",
+    "itemName": "APOLLO WAFER BISCUITS STICK (ASSORTED FLAVOURS), 11G X 30 PACKETS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE, STRAWBERRY, BLUEBERRY, PEANUT BUTTER, PANDAN",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.2,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.35,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3.05,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-1",
+    "category": "Cat B-Snacks",
+    "itemName": "BIN BIN RICE CRACKERS - SPICY SEAWEED, 135G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.6,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-2",
+    "category": "Cat B-Snacks",
+    "itemName": "BIN BIN RICE CRACKERS (ASSORTED FLAVOURS), 150G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: ORIGINAL, SEAWEED",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.45,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-3",
+    "category": "Cat B-Snacks",
+    "itemName": "CALBEE PRAWN CRACKERS (ASSORTED  FLAVOURS), 90G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: ORIGINAL, SPICY, GRILLED SQUID, BBQ, BLACK PEPPER",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.1,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.95,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.15,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-4",
+    "category": "Cat B-Snacks",
+    "itemName": "CHIPSMORE COOKIES MULTIPACK (ASSORTED FLAVOURS), 224G, 8 PACKS PER PACKET\r\n\r\nASSORTED FLAVOURS SELECTION: ORIGINAL, DOUBLE CHOC",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.35,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3.2,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-5",
+    "category": "Cat B-Snacks",
+    "itemName": "DANISA TRADITIONAL BUTTER COOKIES, 454G PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.7,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 9,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 7.35,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-6",
+    "category": "Cat B-Snacks",
+    "itemName": "DOUBLE DECKER CORNTOS (ASSORTED FLAVOURS), 30S X 18G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: BBQ, CHILLI CHEESE",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.15,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.8,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 5.5,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-7",
+    "category": "Cat B-Snacks",
+    "itemName": "DOUBLE DECKER CRACKERS (ASSORTED FLAVOURS), 10S X 15G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: PRAWN, CHICKEN",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.35,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.45,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-8",
+    "category": "Cat B-Snacks",
+    "itemName": "EGO HOMETOWN WALNUT COOKIES WITH SLICED ALMOND, 240G X 12 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 34.2
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 31,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 33.7,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-9",
+    "category": "Cat B-Snacks",
+    "itemName": "EGO OAT FLAVOUR DIGESTIVE CRACKERS (ASSORTED FLAVOURS), 240G X 12 PACKETS PER CARTON\r\n\r\nASSORTED FLAVOURS SELECTION: BLACK SESAME & ONION, BLACK SESAME, VEGETABLE & SESAME",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 34.2
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 31,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 33.7,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-10",
+    "category": "Cat B-Snacks",
+    "itemName": "GLICO COLLON BISCUIT ROLL (ASSORTED FLAVOURS), 10S X 46G  PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE, STRAWBERRY, CREAM",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10.1
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-11",
+    "category": "Cat B-Snacks",
+    "itemName": "GLICO POCKY BISCUITS STICKS SHARE PACK (ASSORTED FLAVOURS), 8S X 20-22G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE, STRAWBERRY, COOKIES & CREAM",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.45,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-12",
+    "category": "Cat B-Snacks",
+    "itemName": "HAITAI ALMOND CRACKER, 22G x 6 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.25
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.05
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.6,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-13",
+    "category": "Cat B-Snacks",
+    "itemName": "HUP SENG PINEAPPLE JAM BISCUITS, 5.4KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 37.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 24,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 39.4,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-14",
+    "category": "Cat B-Snacks",
+    "itemName": "HUP SENG SPECIAL CREAM CRACKERS, 225G, 10 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.6,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-15",
+    "category": "Cat B-Snacks",
+    "itemName": "HUP SENG SUGAR CRACKERS, 225G, 10 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.6,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-16",
+    "category": "Cat B-Snacks",
+    "itemName": "HWA TAI LUXURY CALCIUM CRACKER, 129G PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.13,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.5,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-17",
+    "category": "Cat B-Snacks",
+    "itemName": "HWA TAI LUXURY VEGETABLE CRACKER, 129G PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.13,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.5,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-18",
+    "category": "Cat B-Snacks",
+    "itemName": "IKO 3 FRUITS CRACKER, 178G X 12 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 61.65,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 18.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 25.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-19",
+    "category": "Cat B-Snacks",
+    "itemName": "IKO 3 SEEDS CRACKER, 178G X 12 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 61.65,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 18.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 25.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-20",
+    "category": "Cat B-Snacks",
+    "itemName": "IKO SUGAR FREE OATMEAL CRACKER (ASSORTED FLAVOURS), 178G X 12 BOXES PER CARTON\r\n\r\nASSORTED FLAVOURS SELECTION: 9 GRAINS, OAT BRAN, PUMPKIN, DIGESTIVE, ORIGINAL",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 61.65,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 45.4,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-21",
+    "category": "Cat B-Snacks",
+    "itemName": "JACK 'N JILL DEWBERRY SANDWICH BISCUITS (ASSORTED FLAVOURS), 27G X 12 PACKETS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: BLUEBERRY, STRAWBERRY",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.15,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.25,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.95,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-22",
+    "category": "Cat B-Snacks",
+    "itemName": "JACOB'S MULTIPACK ORIGINAL CREAM CRACKERS, 504G, 14 PACKETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.55,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.85,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 5.45,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-23",
+    "category": "Cat B-Snacks",
+    "itemName": "JACOB'S WEETAMEAL CRACKER, 502G, 18 PACKETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.55,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.75,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 5.45,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-24",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S  PEANUT BUTTER SANDWICH BISCUITS, 5.5KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 41.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 25,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 43.95,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-25",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S ASSORTED BISCUITS (ASSORTIES), 530G PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.85,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 7.05,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-26",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S BUTTER CRACKER, 250G, 10 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.65,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.85,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.45,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-27",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S BUTTER WAFFLES, 35G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-28",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S CHEESE SANDWICH BISCUITS, 336G X 12, 12 PACKS X 12 SACHETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 56.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 40,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 58.55,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-29",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S CHEESE SANDWICH BISCUITS, 336G, 12 PACKETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.75,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.9,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-30",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S CHEESE SANDWICH BISCUITS, 4.5KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 35,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 25,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 37.2,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-31",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S LE-MOND SANDWICH BISCUITS (ASSORTED FLAVOURS), 180G, 10 PACKETS PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CHEDDAR CHEESE, CHOCOLATE HAZELNUT",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-32",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S LE-MOND SANDWICH BISCUITS (LEMON), 170G, 10 PACKETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-33",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S OAT 25 COOKIES (ASSORTED FLAVOURS), 200G, 8 PACKETS PER PACK \r\n\r\nASSORTED FLAVOURS SELECTION: HAZELNUTS & CHOCOLATE CHIPS, STRAWBERRY, TEN GRAINS",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-34",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S PEANUT BUTTER SANDWICH BISCUITS, 360G X 12, 12 PACKS X 12 SACHET PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 56.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 40,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 58.55,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-35",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S PEANUT BUTTER SANDWICH BISCUITS, 360G, 12 PACKETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.75,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.9,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-36",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S WHEAT CRACKER, 250G, 10 PACKETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.65,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.25,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.45,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-37",
+    "category": "Cat B-Snacks",
+    "itemName": "JULIE'S WHEAT CRACKERS, 4.5KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 26,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 18,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 26.85,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-38",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN ASSORTED BISCUITS ROSE, 700G PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8.25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 8.15,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-39",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN ASSORTMENT BISCUIT FAMILY PACK, 600G X 10 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 52.25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 36,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 53.3,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-40",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN ASSORTMENT BISCUIT GRADE 1, 800G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.8,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.1,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-41",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN BANANA SANDWICH BISCUITS, 200G X 24 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 55,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 36,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 54.25,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-42",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN BUTTER COOKIES, 454G PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.4,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6.15,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 7.45,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-43",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN BUTTERFLY/BIG EAR BISCUITS, 3KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 21,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 29.9,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-44",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN CHEESE CRACKER, 200G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.15,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.05,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-45",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN CHOCOLATE WAFER BISCUIT, 3.6KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 32.15,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 15,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 34.95,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-46",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN CREAM CRACKER BISCUITS, 5KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 12,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-47",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN CREAM CRACKER, 300G, 12 PACKETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.1,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.7,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-48",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN CREAMY CHOCOLATE SANDWICH BISCUITS, 200G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.95,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.3,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-49",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN HEONG SOH PUFF CREAM CRACKER BISCUITS WITH SUGAR TOPPING, 3.5KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 20,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 14,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 22.2,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-50",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN LARGE MARIE BISCUITS, 4KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 23,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 16,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 26.05,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-51",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN LEMON PUFF BISCUITS, 5KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 35.2,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 20,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 38,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-52",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN LEMON PUFF SANDWICH BISCUITS, 260G, 12 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.95,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.8,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-53",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN LEMON PUFF SANDWICH BISCUITS, 800G, 40 SACHETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.1,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-54",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN PEANUT CREAM BISCUITS, 5KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 41.6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 28,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 44.25,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-55",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN SMALL MARIE BISCUITS, 3.3KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 18.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 14,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 22,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-56",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN SQUARE PUFF, 300G X 12 PACKETS PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 24.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 16,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 23.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-57",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN SULTANA BISCUITS 200G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.65,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.05,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.7,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-58",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN SULTANA BISCUITS, 260G, 10 PACKETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.05,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.25,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3.05,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-59",
+    "category": "Cat B-Snacks",
+    "itemName": "KHONG GUAN TOP CHOICE ASSORTMENT BISCUIT, 1.2KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 11,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 11.45,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-60",
+    "category": "Cat B-Snacks",
+    "itemName": "KJELDSENS BUTTER COOKIES, 454G PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 11.15,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 11.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 12.25,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-61",
+    "category": "Cat B-Snacks",
+    "itemName": "LAY'S POTATO CHIPS (ASSORTED FLAVOURS), 170G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CLASSIC, SOUR CREAM & ONION, BBQ, CHEDDAR & SOUR CREAM",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.8,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-62",
+    "category": "Cat B-Snacks",
+    "itemName": "LAY'S POTATO CHIPS (ASSORTED FLAVOURS), 28.3G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CLASSIC, SOUR CREAM & ONION, BBQ",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.75,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.65,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 0.75,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-63",
+    "category": "Cat B-Snacks",
+    "itemName": "LEE ASSORTED BISCUITS, 1KG PER TIN",
+    "description": "TI",
+    "uom": "TI",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 6.1,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-64",
+    "category": "Cat B-Snacks",
+    "itemName": "LOACKER CLASSIC MINI CRISPY WAFERS (ASSORTED FLAVOURS), 20S X 10G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: NAPOLITANER, CREMKAKAO, VANILLE, ASSORTED MIXED",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 7.2,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-65",
+    "category": "Cat B-Snacks",
+    "itemName": "LOTUS BISCOFF BISCUIT, 124G, 8 X 2 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.35,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.2,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-66",
+    "category": "Cat B-Snacks",
+    "itemName": "MCVITIES DIGESTIVE BISCUIT, 400G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.95
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.5
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.15
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-67",
+    "category": "Cat B-Snacks",
+    "itemName": "MEIJI HELLO PANDA BISCUITS (ASSORTED FLAVOURS), 260G, 10 PACKETS PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE, STRAWBERRY, ASSORTED",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.1,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 6.35,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-68",
+    "category": "Cat B-Snacks",
+    "itemName": "MEIJI LUCKY BISCUIT STICK (ASSORTED FLAVOURS), 8S X 15G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE, STRAWBERRY",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.71,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.1,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-69",
+    "category": "Cat B-Snacks",
+    "itemName": "MEIJI PLAIN CRACKERS (ASSORTED FLAVOURS), 104G, 4 PACKETS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: ORIGINAL, OATS, SESAME",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.37,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.25,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.4,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-70",
+    "category": "Cat B-Snacks",
+    "itemName": "MEIJI PLAIN CRACKERS (ASSORTED FLAVOURS), 416G, 16 PACKETS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: ORIGINAL, OATS, SESAME",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.2,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.6,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 5.15,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-71",
+    "category": "Cat B-Snacks",
+    "itemName": "MILO RING COOKIE, 12S X 32.5G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.15,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.6,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 5,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-72",
+    "category": "Cat B-Snacks",
+    "itemName": "MITSUYA TASTY BISCUIT STICK, 40G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.65
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.5
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.7
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-73",
+    "category": "Cat B-Snacks",
+    "itemName": "MUNCHY'S FUNMIX ASSORTED BISCUITS",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.3,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 6.3,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-74",
+    "category": "Cat B-Snacks",
+    "itemName": "MUNCHY'S LEXUS SANDWICH CALCIUM CRACKERS (ASSORTED FLAVOURS), 190G, 10 SACHETS PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CHEESE, VANILLA CREAM, PEANUT BUTTER, LEMON, CHOCOLATE",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.1,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.8,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-75",
+    "category": "Cat B-Snacks",
+    "itemName": "MUNCHY'S LEXUS SANDWICH CALCIUM CRACKERS (ASSORTED FLAVOURS), 200G, 10 SACHETS PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE CREAM, VEGETABLE",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.1,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.8,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-76",
+    "category": "Cat B-Snacks",
+    "itemName": "MUNCHY'S OAT KRUNCH CRACKERS (ASSORTED FLAVOURS), 192G, 6 PACKETS PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CHIA SEED & MILK, CRANBERRY, DARK CHOCOLATE & BLUEBERRY",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.15,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3.1,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-77",
+    "category": "Cat B-Snacks",
+    "itemName": "MUNCHY'S OAT KRUNCH CRACKERS (ASSORTED FLAVOURS), 208G, 8 PACKETS PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CHUNKY HAZELNUT, STRAWBERRY & BLACKCURRANT, DARK CHOCOLATE, NUTTY CHOCOLATE",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.15,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3.1,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-78",
+    "category": "Cat B-Snacks",
+    "itemName": "MUNCHY'S TOP MIX ASSORTED BISCUITS",
+    "description": "EA",
+    "uom": "EA",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 7,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-79",
+    "category": "Cat B-Snacks",
+    "itemName": "NESTLE CEREAL VARIETY SCHOOL PACK, 6S X 20/25G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.05,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.2,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-80",
+    "category": "Cat B-Snacks",
+    "itemName": "NESTLE MILO NUGGETS, 10S X 15G PER PACKET",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.38,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-81",
+    "category": "Cat B-Snacks",
+    "itemName": "NESTLE MILO SANDWICH COOKIES (CHOCO & MILK), 408G, 12 PACKS PER PACKET",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.95,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 5,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-82",
+    "category": "Cat B-Snacks",
+    "itemName": "OREO SANDWICH COOKIE MULTIPACK (ASSORTED FLAVOURS), 248.4G, 3 PIECES X 9 PACKETS PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE, STRAWBERRY, VANILLA, DARK & WHITE CHOCOLATE, CHOCO BANANA",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.2,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.9,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3.35,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-83",
+    "category": "Cat B-Snacks",
+    "itemName": "ORIENTAL SUPER RING (FAMILY PACK), 112G, 8 PACKS PER PACKET",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.94,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.25,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-84",
+    "category": "Cat B-Snacks",
+    "itemName": "OVALTINE SANDWICH COOKIES, CHOCOLATE MALT, 12S X 30G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.4,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-85",
+    "category": "Cat B-Snacks",
+    "itemName": "POLA SNACK (ASSORTED FLAVOURS), 10S X 15G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: ORIGINAL, SEAWEED, HOT & SPICY",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.2,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.8,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-86",
+    "category": "Cat B-Snacks",
+    "itemName": "PRINGLES POTATO CRISPS (ASSORTED FLAVOURS), 42G X 12 CANS PER CARTON\r\n\r\nASSORTED FLAVOURS SELECTION: ORIGINAL, SOUR CREAM & ONION,",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 17,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 15,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 15.4,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-87",
+    "category": "Cat B-Snacks",
+    "itemName": "QUAKER OATS COOKIES (ASSORTED FLAVOURS), 150G, 6 SACHETS PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE CHIPS, HONEY NUTS, RAISINS",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.6,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-88",
+    "category": "Cat B-Snacks",
+    "itemName": "TONG GARDEN NOI SALTED POTATO STICKS, 100G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.65,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3.05,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-89",
+    "category": "Cat B-Snacks",
+    "itemName": "TWISTIES (ASSORTED FLAVOURS) (BIG PACK), 160G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: HOT & SPICY, SOUR CREAM & ONION, CHERRY TOMATO, CHEDDAR CHEESE, BBQ, CURRY CHICKEN",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.7,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-90",
+    "category": "Cat B-Snacks",
+    "itemName": "TWISTIES (ASSORTED FLAVOURS) MULTIPACK, 8S X 13G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CHEEKY CHEDDAR, KABOOM! BBQ CURRY",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.7,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.3,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-91",
+    "category": "Cat B-Snacks",
+    "itemName": "WANT WANT RICE CRACKER (SEAWEED), 136G, 2 PIECES X 8 BAGS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-92",
+    "category": "Cat B-Snacks",
+    "itemName": "WANT WANT RICE CRACKER, PURPLE SWEET POTATO, 56G, 2 PIECES X 10 BAGS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.4,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.4,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.4,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-93",
+    "category": "Cat B-Snacks",
+    "itemName": "WANT WANT SENBEI RICE CRACKERS, 92G, 2 PIECES X 16 BAGS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.15,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.75,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.35,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-94",
+    "category": "Cat B-Snacks",
+    "itemName": "WANT WANT SHELLY SENBEI RICE CRACKER (ORIGINAL), 122G, 2 PIECES X 10 BAGS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.65,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.9,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.75,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-95",
+    "category": "Cat B-Snacks",
+    "itemName": "WIN2 BAKED POTATO CRISP CRACKERS (ASSORTED FLAVOURS), 160G, 8 PACKS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: VEGETABLE, SOUR CREAM, BBQ, SWEET POTATO, TOMATO, COFFEE, SEAFOOD",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.75,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-96",
+    "category": "Cat B-Snacks",
+    "itemName": "WIN2 BAKED POTATO CRISP CRACKERS (ASSORTED FLAVOURS), 20G X 30 PACKS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: VEGETABLE, SOUR CREAM, BBQ, SWEET POTATO, TOMATO, COFFEE, SEAFOOD",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.5,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.8,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-97",
+    "category": "Cat B-Snacks",
+    "itemName": "AYAM BRAND SALMON SPREAD SNACKY PACK, 85G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.8,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.15,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-98",
+    "category": "Cat B-Snacks",
+    "itemName": "AYAM BRAND TUNA SPREAD SNACKY PACK, 85G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.8,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.15,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-99",
+    "category": "Cat B-Snacks",
+    "itemName": "APOLLO CAKE (ASSORTED FLAVOURS), 18G X 24 PACKETS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE, STRAWBERRY, COCONUT & PANDAN TWINS, BLUEBERRY, MILK & COCO TWINS",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.2,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.6,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3.4,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-100",
+    "category": "Cat B-Snacks",
+    "itemName": "EGO SWISS ROLL (ASSORTED FLAVOURS), 176G, 8 PIECES PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE, STRAWBERRY, COCONUT PANDAN, VANILLA",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.6,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.85,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-101",
+    "category": "Cat B-Snacks",
+    "itemName": "CREAM CAKE (ASSORTED FLAVOURS)",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.7,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.25,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.08,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-102",
+    "category": "Cat B-Snacks",
+    "itemName": "LOTTE HAPPY PROMISE CHOCO PIE, 168G, 6 PACKETS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.4
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.15
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.6
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-103",
+    "category": "Cat B-Snacks",
+    "itemName": "LOTTE HAPPY PROMISE CUSTARD CREAM CAKE, 138G, 6 PACKETS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.62
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.5
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.85
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-104",
+    "category": "Cat B-Snacks",
+    "itemName": "ALPEN CEREAL BARS (ASSORTED FLAVOURS), 5S X 29G PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: FRUIT & NUT CHOCOLATE, STRAWBERRY & YOGURT",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.4,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.65,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 6.75,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-105",
+    "category": "Cat B-Snacks",
+    "itemName": "CARMAN'S MUESLI BARS (ASSORTED FLAVOURS), 6S X 45G PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: SUPER BERRY, ORIGINAL FRUIT FREE",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.06,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 7.7,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-106",
+    "category": "Cat B-Snacks",
+    "itemName": "CARMAN'S PROTEIN BAR (ASSORTED FLAVOURS), 200G, 5 BARS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: COOKIES & CREAM, DARK CHOC & CRANBERRY, ICE COFFEE, SALTED CARAMEL NUT BUTTER, GREEK STYLE YOGURT & BERRY",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8.17,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 8.9,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-107",
+    "category": "Cat B-Snacks",
+    "itemName": "NATURE VALLEY (ASSORTED FLAVOURS), CRUNCHY GRANOLA BARS, 210G, 5 X DOUBLE BARS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: ROASTED ALMOND, OATS & DARK CHOCOLATE, OAT & HONEY, PEANUT BUTTER",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.47,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 5.55,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-108",
+    "category": "Cat B-Snacks",
+    "itemName": "NESTLE FITNESSE BREAKFAST CEREAL BAR (ASSORTED FLAVOURS), 23.5G PER BAR\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE, RED BERRIES",
+    "description": "EA",
+    "uom": "EA",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.42,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.85,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.05,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-109",
+    "category": "Cat B-Snacks",
+    "itemName": "NESTLE MILO SNACK BAR DIPPED WITH WHITE CHOCOLATE, 10S X 27G PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10.55,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 8.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 9.55,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-110",
+    "category": "Cat B-Snacks",
+    "itemName": "NESTLE MILO SNACK BAR, 210G, 10 BARS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10.55,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 8.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 9.55,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-111",
+    "category": "Cat B-Snacks",
+    "itemName": "QUEST NUTRITION PROTEIN BAR (ASSORTED FLAVOURS), 240G, 4 BARS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE CHIP COOKIE DOUGH, COOKIES & CREAM, SMORES",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 25.2
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-112",
+    "category": "Cat B-Snacks",
+    "itemName": "TASTI NUT BAR (ASSORTED FLAVOURS) 210G, 6 BARS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: NUT DELUXE, DARK CHOC CRANBERRY",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.3
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 5.15
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-113",
+    "category": "Cat B-Snacks",
+    "itemName": "TASTI PROTEIN BARS (ASSORTED FLAVOURS), 200G, 5 BIG BARS PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: DARK CHOCOLATE ALMOND, NUTTY CHOCOLATE, SALTED CARAMEL",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.45
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 6.25
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-114",
+    "category": "Cat B-Snacks",
+    "itemName": "YOGOOD YOGHURT COATED MUESLI BARS (ASSORTED FLAVOURS), 6S X 23G PER BOX\r\n\r\nASSORTED FLAVOURS SELECTION: CHOCOLATE COATED, STRAWBERRY, WILDBERRY, BLUEBERRY CRANBERRY, CRANBERRY MANGO",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.2,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 6.15,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-115",
+    "category": "Cat B-Snacks",
+    "itemName": "KOKA CUP NOODLES (ASSORTED FLAVOURS), 70G X 24 CUPS PER CARTON\r\n\r\nASSORTED FLAVOURS SELECTION: CHICKEN SIGNATURE, MUSHROOM SIGNATURE, CURRY SIGNATURE, SEAFOOD SIGNATURE, TOM YUM SIGNATURE",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 30.25,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 25,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 29.55,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-116",
+    "category": "Cat B-Snacks",
+    "itemName": "MAGGI 5-MINUTE INSTANT CUP PASTA (ASSORTED FLAVOURS), 56-63G PER CUP \r\n\r\nASSORTED FLAVOURS SELECTION: SWISS CHEESE MACARONI, CARBONARA CREAM MACARONI, MUSHROOM CREAM FETTUCCINE",
+    "description": "EA",
+    "uom": "EA",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.45,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.15,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.5
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-117",
+    "category": "Cat B-Snacks",
+    "itemName": "MYOJO QUICK CUP NOODLES (ASSORTED FLAVOURS), 66-76G PER CUP\r\n\r\nASSORTED FLAVOURS SELECTION: CHICKEN, TOM YAM, SEAFOOD, CURRY",
+    "description": "EA",
+    "uom": "EA",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.96,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.95,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-118",
+    "category": "Cat B-Snacks",
+    "itemName": "NISSIN INSTANT CUP NOODLES, 72-76G (ASSORTED FLAVOURS) PER CUP \r\n\r\nASSORTED FLAVOURS SELECTION: CHICKEN, SEAFOOD, TOM YAM, LAKSA, MUSHROOM CHICKEN, FISH HEAD CURRY, CHILLI CRAB, KOREAN ARMY STEW, KYUSHU WHITE, SPICY SEAFOOD",
+    "description": "EA",
+    "uom": "EA",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.5
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.3
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.4
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-119",
+    "category": "Cat B-Snacks",
+    "itemName": "CAMEL MINI NUT PACKS (ASSORTED FLAVOURS), 20S X 36G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: SATAY BROAD BEAN, COATED GREEN PEAS, MIXED SNACKS, IKAN BILIS PEANUTS, CRACKER PEANUTS, ROASTED PEANUTS, SUGAR PEANUTS",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10.1,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 9.6,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 10.5,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-120",
+    "category": "Cat B-Snacks",
+    "itemName": "CAMEL NATURAL BAKED MIXED NUTS (ASSORTED FLAVOURS), 150G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: COCKTAIL MIX, FRUITS & NUTTY MIX, RUBY MIX",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.9,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-121",
+    "category": "Cat B-Snacks",
+    "itemName": "CAMEL NATURAL BAKED NUTS (ASSORTED FLAVOURS), 130G-135G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: WALNUTS, ALMONDS",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 4.9,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-122",
+    "category": "Cat B-Snacks",
+    "itemName": "CAMEL NATURAL WHOLESOME NUT MIX (ASSORTED FLAVOURS), 250G, 10 PACKS PER PACKET\r\n\r\nASSORTED FLAVOURS SELECTION: POWER REVIVE, POWER BOUNCE",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10.85,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 10.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 12.2,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-123",
+    "category": "Cat B-Snacks",
+    "itemName": "DEL MONTE CALIFORNIA PITTED PRUNES, 283G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.36,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.5
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 7.3,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-124",
+    "category": "Cat B-Snacks",
+    "itemName": "LIGO CALIFORNIA SEEDLESS RAISINS, 6S X 30G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.08,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.95,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-125",
+    "category": "Cat B-Snacks",
+    "itemName": "SUN-MAID CALIFORNIA SUN-DRIED RAISINS, 12S X 14G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.35,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3.8
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-126",
+    "category": "Cat B-Snacks",
+    "itemName": "SUNSWEET ONES CALIFORNIA PRUNES (INDIVIDUALLY WRAPPED), 340G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 11.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 11,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 12.95
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-127",
+    "category": "Cat B-Snacks",
+    "itemName": "TONG GARDEN ALL NATURAL COCKTAIL NUTS, 160G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.05,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.35,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 5.2,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-128",
+    "category": "Cat B-Snacks",
+    "itemName": "TONG GARDEN NUTRIONE BAKED NUTS & DRIED FRUIT (ASSORTED FLAVOURS), 7S X 28G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: APPLE PIE, MANGO TANGO, BERRY MIX",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 8,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 9.05,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-129",
+    "category": "Cat B-Snacks",
+    "itemName": "TONG GARDEN NUTRIONE BAKED NUTS (ASSORTED FLAVOURS), 85G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: NUTS & BERRY MIX, ALMOND",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.03,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3.1,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-130",
+    "category": "Cat B-Snacks",
+    "itemName": "SINGLONG SEASONED SEAWEED, PERILLA OIL, 4G X 8 PACKETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.27,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3.45,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-131",
+    "category": "Cat B-Snacks",
+    "itemName": "TAO KAE NOI CRISPY SEAWEED (ASSORTED FLAVOURS), 32G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: ORIGINAL, HOT & SPICY, TOM YAM GOONG, HONEY BBQ, JAPANESE SAUCE, WASABI, SOUR CREAM & ONION, CHILI GARLIC MAYONNAISE",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.7,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.6,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-132",
+    "category": "Cat B-Snacks",
+    "itemName": "SNACK PACK A, COMPRISES: 1 X OREO SANDWICH COOKIE, 1 X JULIE'S BISCUIT, 1 X 2-PLY POCKET TISSUE AND 1 X 500ML F&N ICE MOUNTAIN TETRA PAK DRINKING WATER, MOQ: BELOW 100 PACKS",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.57,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-133",
+    "category": "Cat B-Snacks",
+    "itemName": "SNACK PACK B, COMPRISES OF: 1 X 200ML NESTLE MILO CHOCOLATE MALT MILK UHT PACKET DRINK, 2 X LONDON ROLL CREAM CAKE, 1 X NESTLE KIT KAT 2 FINGER, 1 X OREO SANDWICH COOKIE, 1 X JULIE'S BISCUIT AND 1 X MENTOS MINI RAINBOW CANDY, MOQ: 100 PACKS",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.08,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.15,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-134",
+    "category": "Cat B-Snacks",
+    "itemName": "SNACK PACK C, COMPRISES 1 X 200ML NESTLE MILO CHOCOLATE MALT MILK UHT PACKET DRINK, 2 X  LONDON ROLL CREAM CAKE, 1 X UNCLE TOBY'S YOGHURT BAR, 1 X 2-PLY POCKET TISSUE, MOQ: 100 PACKS",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.35,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.3,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-135",
+    "category": "Cat B-Snacks",
+    "itemName": "SNACK PACK D, COMPRISES: 1 X LOTTE CHOCO PIE, 1 X 200ML NESTLE MILO PACKET DRINK, 1 X LONDON ROLL CREAM CAKE, 1 X NESTLE KIT KAT 2 FINGER, 1 X OREO SANDWICH COOKIE, 1 X JULIE'S BISCUIT AND 1 X MENTOS MINI RAINBOW CANDY, MOQ: 100 PACKS",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.33
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.35,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.4,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-136",
+    "category": "Cat B-Snacks",
+    "itemName": "SNACK PACK E (COMBI), COMPRISES MINIMUM 6 ITEMS IE. 1 X GROUP A + 1 X GROUP B + 1 X GROUP E + 1 X GROUP D + 2 X GROUP C OR EQUIVALENT, MOQ: 100 PACKS \r\n\r\nNOTE: PLEASE REFER TO \"SNACK PACK DETAILS FOR CAT B\" FOR THE LIST OF PROPOSED ITEMS.",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.95,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-137",
+    "category": "Cat B-Snacks",
+    "itemName": "SNACK PACK F (COMBI) COMPRISES MINIMUM 5 ITEMS IE. 1 X GROUP A + 1 X GROUP E + 1 X GROUP D + 2 X GROUP C OR EQUIVALENT, MOQ: 100 PACKS \r\n\r\nNOTE: PLEASE REFER TO \"SNACK PACK DETAILS FOR CAT B\" FOR THE LIST OF PROPOSED ITEMS.",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.8,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2.6,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-138",
+    "category": "Cat B-Snacks",
+    "itemName": "SNACK PACK G (COMBI) COMPRISES MINIMUM 5 ITEMS IE. 1 X GROUP A + 1 X GROUP B + 1 X GROUP D + 2 X GROUP C OR EQUIVALENT, MOQ: 100 PACKS \r\n\r\nNOTE: PLEASE REFER TO \"SNACK PACK DETAILS FOR CAT B\" FOR THE LIST OF PROPOSED ITEMS.",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.2,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.8,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.85,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-139",
+    "category": "Cat B-Snacks",
+    "itemName": "SNACK PACK H (COMBI) COMPRISES MINIMUM 4 ITEMS IE. 1 X GROUP A + 1 X GROUP D + 1 X GROUP F + 1 X GROUP G OR EQUIVALENT, MOQ: 100 PACKS \r\n\r\nNOTE: PLEASE REFER TO \"SNACK PACK DETAILS FOR CAT B\" FOR THE LIST OF PROPOSED ITEMS.",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.1,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 2,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-140",
+    "category": "Cat B-Snacks",
+    "itemName": "SNACK PACK I (COMBI) COMPRISES MINIMUM 4 ITEMS IE. 1 X GROUP D + 1 X GROUP F + 2 X GROUP G OR EQUIVALENT, MOQ: 100 PACKS \r\n\r\nNOTE: PLEASE REFER TO \"SNACK PACK DETAILS FOR CAT B\" FOR THE LIST OF PROPOSED ITEMS.",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.3,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.9,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.95,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-141",
+    "category": "Cat B-Snacks",
+    "itemName": "SNACK PACK J (COMBI) COMPRISES MINIMUM 2 ITEMS IE. 1 X GROUP D + 1 X GROUP F OR EQUIVALENT, MOQ: 100 PACKS\r\n\r\nNOTE: PLEASE REFER TO \"SNACK PACK DETAILS FOR CAT B\" FOR THE LIST OF PROPOSED ITEMS.",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.45,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.2,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-142",
+    "category": "Cat B-Snacks",
+    "itemName": "CADBURY DAIRY MILK SHAREPACK CHOCOLATE, 144G, 12 MINI BARS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.45,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.2,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 5.7,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-143",
+    "category": "Cat B-Snacks",
+    "itemName": "FRUIT PLUS CHEWY CANDY (ASSORTED  FLAVOURS), 1KG PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 9.05,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-144",
+    "category": "Cat B-Snacks",
+    "itemName": "FRUIT PLUS CHEWY CANDY (MINT PLUS), 1KG PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 9.05,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-145",
+    "category": "Cat B-Snacks",
+    "itemName": "HACKS CANDY (ASSORTED FLAVOURS), 1.8KG PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: ORIGINAL, BLACKCURRANT, HONEY LEMON",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 13,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 12.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 12,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-146",
+    "category": "Cat B-Snacks",
+    "itemName": "KINDER BUENO MILK CHOCOLATE WAFER BAR, 43G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.6,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.4,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.5,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-147",
+    "category": "Cat B-Snacks",
+    "itemName": "M&M'S CHOCOLATE CANDIES (ASSORTED FLAVOURS), FUNSIZE, 175.5G, 13 BAGS PER PACKET\r\n\r\nASSORTED FLAVOURS SELECTION: MILK, PEANUT",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.35,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 5.95,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-148",
+    "category": "Cat B-Snacks",
+    "itemName": "MARS CHOCOLATE BAR SINGLE, 51G X 24 BARS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 18,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-149",
+    "category": "Cat B-Snacks",
+    "itemName": "MENTOS SWEETS (ASSORTED FLAVOURS), 1KG PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 7.35,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-150",
+    "category": "Cat B-Snacks",
+    "itemName": "MENTOS SWEETS (MINT), 1KG PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 7.35,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-151",
+    "category": "Cat B-Snacks",
+    "itemName": "NESTLE KIT KAT 2 FINGER CHOCOLATE BAR, 204G, 12 PACKS PER PACKET",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.8,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.8,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 6.1,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-152",
+    "category": "Cat B-Snacks",
+    "itemName": "NESTLE KIT KAT 4 FINGER CHOCOLATE BAR, 35G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.9,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.65,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 0.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-153",
+    "category": "Cat B-Snacks",
+    "itemName": "RIBENA BLACKCURRENT PASTILLES (ZIPPER PACK), 40G PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.7,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.3,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.65,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-154",
+    "category": "Cat B-Snacks",
+    "itemName": "SNICKER CHOCOLATE BAR, 51G PER BAR",
+    "description": "EA",
+    "uom": "EA",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.55,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.75,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.55,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-155",
+    "category": "Cat B-Snacks",
+    "itemName": "TOBERLONE TINY (ASSORTED FLAVOURS), 200G PER PACK \r\n\r\nASSORTED FLAVOURS SELECTION: MILK, DARK CHOCOLATE",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.4
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.5,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 3.95
+      }
+    }
+  },
+  {
+    "id": "cat-b-snacks-156",
+    "category": "Cat B-Snacks",
+    "itemName": "YUPI GUMMY CANDIES (ASSORTED FLAVOURS), 77-120G PER PACK\r\n\r\nASSORTED FLAVOURS SELECTION: BURGER, ICED COLA, NEON STIX, BABY BEARS, STRAWBERRY KISS, GUMMI LUNCH",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.7,
+        "halal": true
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.35,
+        "halal": true
+      },
+      "THONG CHEW FOOD INDUSTRIES PTE LTD": {
+        "price": 1.5,
+        "halal": true
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-0",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "ALUMINIUM FOIL (DIAMOND), 25 SQUARE FEET PER ROLL",
+    "description": "EA",
+    "uom": "EA",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.05
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-1",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "BIODEGRADABLE CUP, 7OZ, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.85
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.3
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-2",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "BIODEGRADABLE CUP, 9OZ, 50 PIECES PER PACK",
+    "description": "2.02",
+    "uom": "2.02",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.02
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.8
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-3",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "BIODEGRADABLE DESSERT BOWL, 10OZ, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-4",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "BIODEGRADABLE FORK, 6 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.2
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-5",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "BIODEGRADABLE FORK, 7 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.1
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-6",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "BIODEGRADABLE KNIFE, 7 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.5
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-7",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "BIODEGRADABLE PLATE, 6 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.4
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.8
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-8",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "BIODEGRADABLE PLATE, 7 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.6
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.6
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-9",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "BIODEGRADABLE PLATE, 9 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.3
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-10",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "BIODEGRADABLE SPOON, 7 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.19
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-11",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "BIODEGRADABLE STIRRERS, 4.5 INCH, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-12",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "CLING WRAP (GLAD), 120 FEET PER ROLL",
+    "description": "EA",
+    "uom": "EA",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.75
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-13",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "COCKTAIL NAPKIN (KLEENEX), 2-PLY, 250 SHEETS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.11
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.8
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-14",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "COCKTAIL NAPKIN (LIVI), 2-PLY, 100 SHEETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.75
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-15",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "DISPOSABLE PLASTIC GLOVES (FREE SIZE), 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.05
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.7
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-16",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "FACIAL TISSUE BOX, 2-PLY (SCOTT), 150 SHEETS X 5 BOXES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.65
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-17",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "FACIAL TISSUE BOX, 2-PLY (PREMIER), 200 SHEETS X 5 BOXES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.5
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.35
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-18",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "FACIAL TISSUE BOX, 2-PLY, 200 SHEETS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.1
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.75
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-19",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "FOAM BOWL, 12OZ, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.15
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-20",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "FOAM BOWL, 28OZ, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.75
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-21",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "FOAM CUP, 6OZ, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.35
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-22",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "FOAM CUP, 8OZ, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.45
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-23",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "FOAM LUNCH BOX (NORMAL) SINGLE COMPARTMENT TYPE, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.9
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-24",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "FOAM PLATES, 6 INCH, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.35
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-25",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "FOAM PLATES, 7 INCH, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.7
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.7
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-26",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "FOAM PLATES, 9 INCH, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.4
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-27",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "HOT PAPER CUP 8OZ WITH RIPPLE WALL (PLAIN WHITE OR COLOURED), 500 PIECES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 49
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 38
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-28",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "KITCHEN HAND TOWEL (GOOD MORNING) PER PIECE",
+    "description": "PC",
+    "uom": "PC",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.39
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.35
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-29",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "KITCHEN HAND TOWEL (GOOD MORNING), 12 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.25
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-30",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "KITCHEN TOWEL (LIVI), 2-PLY, 6 ROLLS X 60 SHEETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.3
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-31",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "MULTIFOLD PAPER TOWEL (SCOTT), 1-PLY, 250 SHEETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.05
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.15
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-32",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "MULTI-PURPOSE KITCHEN TOWEL (SCOTT), 2-PLY, 2 ROLLS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.29
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.6
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-33",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "MULTI-PURPOSE KITCHEN TOWEL (SCOTT), 2-PLY, 6 ROLLS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.9
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-34",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PAPER CONE CUP, 4OZ, 5000 PIECES PER CARTON",
+    "description": "CT",
+    "uom": "CT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 92
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 75
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-35",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PAPER CUP, 7OZ, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.83
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-36",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PAPER CUP, 8OZ, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.4
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.8
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-37",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PAPER HAND TOWEL (L-FOLD), 150 SHEETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.36
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.25
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-38",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PAPER LUNCHEON NAPKINS, 2-PLY, 125 SHEETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.4
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.75
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-39",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PAPER NAPKIN (SCOTT), 1-PLY, 100 SHEETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.83
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.8
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-40",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PAPER PLATES, 6 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.65
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-41",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PAPER PLATES, 7 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.99
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-42",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PAPER PLATES, 9 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.4
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-43",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PAPER RECTANGLE FLAT LID LUNCH BOX, 1200ML, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 12
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-44",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PAPER ROUND BOWL CONTAINER (BODY + PLASTIC COVER LID), 1000ML, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.4
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-45",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PAPER SERVIETTES, 1 PLY, 100 SHEETS PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.67
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.6
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-46",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC CHINESE DESSERT SPOONS (SMALL), 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.25
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-47",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC CHINESE SPOONS (BIG), 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.38
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-48",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC CUP, 6OZ, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.85
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.9
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-49",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC CUP, 7OZ, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.98
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-50",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC DESSERT BOWL, 10OZ, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-51",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC FORK, 5 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.59
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-52",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC FORK, 6.5 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.55
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.55
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-53",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC FORK, 7 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.59
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.6
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-54",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC KNIFE, 7 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.89
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.75
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-55",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC PLATES, 6 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.15
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.9
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-56",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC PLATES, 7 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.4
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-57",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC PLATES, 9 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.9
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-58",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC SPOON, 5 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.6
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-59",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC SPOON, 7 INCH, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.56
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.6
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-60",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC STIRRER, 5 INCH, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.8
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.6
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-61",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC TRANSPARENT RECTANGLE CONTAINER BOX (BODY + COVER LID), 1000ML, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-62",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC TRANSPARENT ROUND CONTAINER BOX (BODY + COVER LID), 1000ML, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.8
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-63",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC TRANSPARENT ROUND CONTAINER BOX (BODY + COVER LID), 2500ML, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 15
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-64",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC TRANSPARENT SQUARE CONTAINER BOX (BODY + COVER LID), 1000ML, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10.4
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 8.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-65",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTIC TRANSPARENT SQUARE CONTAINER BOX (BODY + COVER LID), 1500ML, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 11.7
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 10.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-66",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "STORAGE ZIPBAG (REYNOLDS), MEDIUM, 25 BAGS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.95
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.25
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-67",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "STORAGE ZIPBAG (LACY'S), GALLON SIZE, 24 PIECES PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.55
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.8
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-68",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "TRANSLUCENT SINGLET PLASTIC BAGS (PLAIN), 11 INCH X 18 INCH, 30 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.05
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.8
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-69",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "WOODEN CHOPSTICKS, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.7
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-70",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "WOODEN FORK, 12CM, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.8
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-71",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "WOODEN KNIFE, 12CM, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.8
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-72",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "WOODEN SPOON, 12CM, 50 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.8
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-73",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "WOODEN STIRRERS, 100 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 4.15
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.4
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-74",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "ANTISEPTIC LIQUID (DETTOL), 750ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 9.55
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-75",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "ANTISEPTIC LIQUID (DETTOL), 1000ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10.89
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-76",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "HAND SANITIZER (DETTOL INSTANT), ORIGINAL, 200ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.05
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 5.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-77",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "HAND SOAP (YURI), 410ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-78",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "HAND WASH (DETTOL ANTI-BACTERIAL FOAM MAGIC) (ASSORTED FLAVOURS), 250ML PER BOTTLE\r\n\r\nASSORTED FLAVOURS SELECTION: VANILLA ORCHID, HONEY AND ALMOND MILK, ROSE & CHERRY",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.4
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-79",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "HAND WASH (DETTOL ANTI-BACTERIAL), ORIGINAL, 250ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.25
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.25
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-80",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "HAND WASH (EVERFRESH GENTLE PH BALANCE DAILY), 500ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-81",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "LIQUID HAND WASH (DETTOL SENSITIVE), ORIGINAL, 250ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.35
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.25
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-82",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTERS (HANSAPLAST), UNIVERSAL WATER RESISTANT, PLASTIC STRIP, 20 STRIPS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.34
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-83",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "PLASTERS (HANSAPLAST), UNIVERSAL WATER RESISTANT, PLASTIC STRIP, 100 STRIPS PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.75
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-84",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "DISHWASHING LIQUID (MAMA LEMON ANTI-BACTERIAL), 750ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-85",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "DISHWASHING LIQUID (MAMA LEMON ANTI-BACTERIAL), 1000ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.8
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-86",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "DISHWASHING LIQUID (MAMA LEMON), 750ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.95
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-87",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "DISHWASHING LIQUID (MAMA LEMON),1000ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.4
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-88",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "DISHWASHING LIQUID (MAMA LEMON), 2000ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 6.99
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-89",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "GREEN SCOURING PAD, 5 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 2.85
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.75
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-90",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "SPONGE WITH SCOURING PAD (3M SCOTCH-BRITE HEAVY DUTY), 3 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.3
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-91",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "SPONGE WITH SCOURING PAD, 3 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 0.8
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 0.45
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-92",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "ALL INSECT KILLER SPRAY (SHIELDTOX), POWERGARD, 600ML PER CAN",
+    "description": "CN",
+    "uom": "CN",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.8
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4.2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-93",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "DISINFECTANT SPRAY (DETTOL), 225ML PER CAN",
+    "description": "CN",
+    "uom": "CN",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.3
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 4
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-94",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "DISINFECTANT SPRAY (DETTOL), 450ML PER CAN",
+    "description": "CN",
+    "uom": "CN",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 8.11
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-95",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "AEROSOL SPRAY/AIR FRESHENER (AIR WICK 4-IN-1), 300ML PER CAN",
+    "description": "CN",
+    "uom": "CN",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.75
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-96",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "MOISTURE ABSORBER (THIRSTY HIPPO), 600ML X 3 PIECES PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 7.3
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-97",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "SCENTED GEL (GLADE) (ASSORTED FLAVOURS), 180G EACH \r\n\r\nASSORTED FLAVOURS SELECTION: LAVENDER, OCEAN ESCAPE, FRESH LEMON, SAKURA & WATER LILY, MORNING FRESHNESS, FLORAL PERFECTION, JASMINE",
+    "description": "EA",
+    "uom": "EA",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.49
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 2.25
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-98",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "BLEACH (CLOROX), ORIGINAL, 4 LITRES PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 5.6
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 6.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-99",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "CREAM CLEANSER (CIF), 500ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 1.8
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 1.5
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-100",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "KITCHEN CLEANER SPRAY (MAGICCLEAN), 500ML PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 3.88
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 3.65
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-101",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "LAUNDRY DETERGENT (DYNAMO), 2.7 LITRES PER BOTTLE",
+    "description": "BT",
+    "uom": "BT",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 17.3
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 9
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-102",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "LAUNDRY POWDER DETERGENT (FAB), 3-3.18KG PER PACK",
+    "description": "PK",
+    "uom": "PK",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 10.55
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 7.2
+      }
+    }
+  },
+  {
+    "id": "cat-c-disposable-pantry-items-103",
+    "category": "Cat C-Disposable Pantry Items",
+    "itemName": "LAUNDRY POWDER DETERGENT (PERSIL), 4.5KG PER BOX",
+    "description": "BX",
+    "uom": "BX",
+    "suppliers": {
+      "PACIFIC BOOKSTORES PTE. LTD.": {
+        "price": 13.61
+      },
+      "SPECIALIST STATIONERY PTE. LTD.": {
+        "price": 13
+      }
+    }
+  }
+]

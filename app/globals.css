@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --app-surface: #f4f5f2;
+  --app-panel: #ffffff;
+  --app-text: #1f2937;
+  --app-muted: #64748b;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  color: var(--app-text);
+  background-color: var(--app-surface);
+}
+
+body {
+  font-size: 14px;
+  line-height: 1.6;
+  background:
+    radial-gradient(1200px 500px at 0% 0%, rgba(16, 185, 129, 0.08), transparent 40%),
+    radial-gradient(800px 300px at 100% 0%, rgba(14, 165, 233, 0.08), transparent 35%),
+    var(--app-surface);
+  min-height: 100vh;
+}
+
+.bg-app-surface {
+  background-color: transparent;
+}

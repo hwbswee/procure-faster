@@ -10,6 +10,9 @@ const manrope = Manrope({
 export const metadata: Metadata = {
   title: 'Procure Faster',
   description: 'Quick procurement search and price comparison',
+  icons: {
+    icon: '/images/shopping-cart.ico',
+  },
 }
 
 export default function RootLayout({

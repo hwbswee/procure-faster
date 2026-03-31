@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: 'Procure Faster',
   description: 'Quick procurement search and price comparison',
   icons: {
-    icon: '/images/shopping-cart.ico',
+    icon: '/shopping-cart.ico',
   },
 }
 

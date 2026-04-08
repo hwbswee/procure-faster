@@ -69,13 +69,7 @@ export function UploadTemplate({ onItemsLoaded, cartItemCount = 0 }: UploadTempl
         throw new Error('Invalid response from server')
       }
 
-      // Check if user wants to merge or replace
-      const shouldMerge =
-        cartItemCount > 0 &&
-        confirm(
-          `You have ${cartItemCount} items in cart.\n\nMerge with imported items?\n\nOK = Merge | Cancel = Replace`
-        )
-
+      // Pass imported items to parent for merge/replace handling
       onItemsLoaded(result.items)
       setSuccess(true)
 

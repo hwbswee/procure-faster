@@ -89,6 +89,24 @@ export default function Home() {
     persistTemplates(nextTemplates)
   }
 
+  const handleExportTemplate = (template: SavedTemplate) => {
+    const data = {
+      name: template.name,
+      createdAt: template.createdAt,
+      items: template.items,
+    }
+    const json = JSON.stringify(data, null, 2)
+    const blob = new Blob([json], { type: 'application/json' })
+    const url = window.URL.createObjectURL(blob)
+    const link = document.createElement('a')
+    link.href = url
+    link.download = `${template.name.replace(/\s+/g, '-').toLowerCase()}.json`
+    document.body.appendChild(link)
+    link.click()
+    document.body.removeChild(link)
+    window.URL.revokeObjectURL(url)
+  }
+
   const handleCategoryToggle = (category: string) => {
     setSelectedCategories(prev =>
       prev.includes(category)
@@ -296,6 +314,13 @@ export default function Home() {
                                 className="px-2.5 py-1.5 rounded-md text-xs font-medium text-slate-700 bg-white border border-slate-300 hover:bg-slate-100 transition"
                               >
                                 Load
+                              </button>
+                              <button
+                                onClick={() => handleExportTemplate(template)}
+                                className="px-2.5 py-1.5 rounded-md text-xs font-medium text-slate-700 bg-white border border-slate-300 hover:bg-slate-100 transition"
+                                title="Download as JSON"
+                              >
+                                ⬇
                               </button>
                               <button
                                 onClick={() => handleDeleteTemplate(template.id)}

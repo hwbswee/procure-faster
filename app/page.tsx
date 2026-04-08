@@ -122,13 +122,15 @@ export default function Home() {
   }
 
   const handleLoadImported = (importedItems: CartItem[]) => {
-    // Check if user wants to merge or replace (merge is handled in component)
-    const shouldMerge = cart.length > 0 && confirm(
-      `You have ${cart.length} items in cart.\n\nMerge with imported items?\n\nOK = Merge | Cancel = Replace`
-    )
+    // Ask if user wants to merge or replace
+    const shouldMerge =
+      cart.length > 0 &&
+      confirm(
+        `You have ${cart.length} items in cart.\n\nMerge with imported items?\n\nOK = Merge | Cancel = Replace`
+      )
 
     if (shouldMerge) {
-      // Merge: combine with existing items
+      // Merge: combine with existing items, summing quantities for duplicates
       const itemMap = new Map(cart.map(item => [item.id, item]))
       importedItems.forEach(imported => {
         if (itemMap.has(imported.id)) {
@@ -213,16 +215,14 @@ export default function Home() {
               <p className="text-sm text-slate-500 mt-2">You can add items directly without typing a search term.</p>
             </div>
           </div>
-        ) : (Download & Upload */}
-                    <button
-                      onClick={handleExportCSV}
-                      disabled={isExporting}
-                      className="w-full py-2.5 bg-slate-800 text-white rounded-xl text-sm font-medium hover:bg-slate-700 transition disabled:opacity-60 disabled:cursor-not-allowed"
-                    >
-                      {isExporting ? 'Generating...' : 'Download JSON'}
-                    </button>
-
-                    <UploadTemplate onItemsLoaded={handleLoadImported} cartItemCount={cart.length} /
+        ) : (
+          <div className="grid grid-cols-1 lg:grid-cols-4 gap-6 lg:gap-7">
+            {/* Left Column - Search (3 cols) */}
+            <div className="lg:col-span-3">
+              <div>
+                <h2 className="text-xs uppercase tracking-[0.14em] text-slate-500 mb-3">Find Items</h2>
+                <SearchBar onItemAdd={handleAddItem} selectedCategories={selectedCategories} />
+              </div>
             </div>
 
             {/* Right Column - Cart Summary (1 col) */}
@@ -251,6 +251,8 @@ export default function Home() {
                     >
                       {isExporting ? 'Generating...' : 'Download CSV'}
                     </button>
+
+                    <UploadTemplate onItemsLoaded={handleLoadImported} />
                   </div>
                 )}
 

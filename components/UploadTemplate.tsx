@@ -15,10 +15,9 @@ interface CartItem {
 
 interface UploadTemplateProps {
   onItemsLoaded: (items: CartItem[]) => void
-  cartItemCount?: number
 }
 
-export function UploadTemplate({ onItemsLoaded, cartItemCount = 0 }: UploadTemplateProps) {
+export function UploadTemplate({ onItemsLoaded }: UploadTemplateProps) {
   const fileInputRef = useRef<HTMLInputElement>(null)
   const [isLoading, setIsLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)

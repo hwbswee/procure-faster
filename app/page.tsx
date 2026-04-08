@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react'
 import { SearchBar } from '@/components/SearchBar'
 import { CategoryFilter } from '@/components/CategoryFilter'
 import { ProcurementList } from '@/components/ProcurementList'
+import { UploadTemplate } from '@/components/UploadTemplate'
 import { getSourceDataAsOfLabel } from '@/lib/source-metadata'
 
 interface CartItem {
@@ -117,7 +118,35 @@ export default function Home() {
   }
 
   const handleNoteChange = (id: string, note: string) => {
-    setCart(cart.map(c => c.id === id ? { ...c, note } : c))
+   
+
+  const handleLoadImported = (importedItems: CartItem[]) => {
+    // Check if user wants to merge or replace (merge is handled in component)
+    const shouldMerge = cart.length > 0 && confirm(
+      `You have ${cart.length} items in cart.\n\nMerge with imported items?\n\nOK = Merge | Cancel = Replace`
+    )
+
+    if (shouldMerge) {
+      // Merge: combine with existing items
+      const itemMap = new Map(cart.map(item => [item.id, item]))
+      importedItems.forEach(imported => {
+        if (itemMap.has(imported.id)) {
+          const existing = itemMap.get(imported.id)!
+          itemMap.set(imported.id, { ...existing, qty: existing.qty + imported.qty })
+        } else {
+          itemMap.set(imported.id, imported)
+        }
+      })
+      setCart(Array.from(itemMap.values()))
+    } else {
+      // Replace: just use imported items
+      setCart(importedItems)
+    }
+
+    // Auto-select imported categories
+    const importedCategories = Array.from(new Set(importedItems.map(item => item.category)))
+    setSelectedCategories(importedCategories)
+  } setCart(cart.map(c => c.id === id ? { ...c, note } : c))
   }
 
   // Calculate best price per item and total
@@ -184,14 +213,16 @@ export default function Home() {
               <p className="text-sm text-slate-500 mt-2">You can add items directly without typing a search term.</p>
             </div>
           </div>
-        ) : (
-          <div className="grid grid-cols-1 lg:grid-cols-4 gap-6 lg:gap-7">
-            {/* Left Column - Search (3 cols) */}
-            <div className="lg:col-span-3">
-              <div>
-                <h2 className="text-xs uppercase tracking-[0.14em] text-slate-500 mb-3">Find Items</h2>
-                <SearchBar onItemAdd={handleAddItem} selectedCategories={selectedCategories} />
-              </div>
+        ) : (Download & Upload */}
+                    <button
+                      onClick={handleExportCSV}
+                      disabled={isExporting}
+                      className="w-full py-2.5 bg-slate-800 text-white rounded-xl text-sm font-medium hover:bg-slate-700 transition disabled:opacity-60 disabled:cursor-not-allowed"
+                    >
+                      {isExporting ? 'Generating...' : 'Download JSON'}
+                    </button>
+
+                    <UploadTemplate onItemsLoaded={handleLoadImported} cartItemCount={cart.length} /
             </div>
 
             {/* Right Column - Cart Summary (1 col) */}

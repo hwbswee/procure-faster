@@ -269,10 +269,13 @@ export default function Home() {
                     >
                       {isExporting ? 'Generating...' : 'Download CSV'}
                     </button>
-
-                    <UploadTemplate onItemsLoaded={handleLoadImported} />
                   </div>
                 )}
+
+                <div className="mt-5 pt-5 border-t border-slate-200">
+                  <p className="text-xs uppercase tracking-[0.14em] text-slate-500 mb-3">Upload Template</p>
+                  <UploadTemplate onItemsLoaded={handleLoadImported} />
+                </div>
 
                 <div className="mt-5 pt-5 border-t border-slate-200 space-y-3">
                   <p className="text-xs uppercase tracking-[0.14em] text-slate-500 mb-3">Saved Templates</p>

@@ -118,7 +118,8 @@ export default function Home() {
   }
 
   const handleNoteChange = (id: string, note: string) => {
-   
+    setCart(cart.map(c => c.id === id ? { ...c, note } : c))
+  }
 
   const handleLoadImported = (importedItems: CartItem[]) => {
     // Check if user wants to merge or replace (merge is handled in component)
@@ -146,7 +147,6 @@ export default function Home() {
     // Auto-select imported categories
     const importedCategories = Array.from(new Set(importedItems.map(item => item.category)))
     setSelectedCategories(importedCategories)
-  } setCart(cart.map(c => c.id === id ? { ...c, note } : c))
   }
 
   // Calculate best price per item and total
